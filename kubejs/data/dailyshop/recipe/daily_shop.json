@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["###", "OCO", "AAA"],
+  "key": {
+    "#": {
+      "tag": "minecraft:wool"
+    },
+    "O": {
+      "tag": "minecraft:fences"
+    },
+    "A": {
+      "tag": "minecraft:planks"
+    },
+    "C": {
+      "item": "numismatics:cog"
+    }
+  },
+  "result": {
+    "id": "dailyshop:daily_shop"
+  }
+}

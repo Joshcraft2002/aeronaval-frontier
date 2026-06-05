@@ -1,0 +1,32 @@
+{
+  "roll": {
+    "type": "constant",
+    "count": 1
+  },
+  "input1": {
+    "filter": "create_connected:charged_kinetic_battery",
+    "count": { "type": "constant", "count": 1 }
+  },
+  "output": [
+    {
+      "item": "numismatics:spur",
+      "count": { "type": "constant", "count": 8 },
+      "weight": 2.0
+    },
+    {
+      "item": "numismatics:spur",
+      "count": { "type": "constant", "count": 9 },
+      "weight": 0.5
+    },
+    {
+      "item": "numismatics:spur",
+      "count": { "type": "constant", "count": 10 },
+      "weight": 0.3
+    },
+    {
+      "item": "numismatics:spur",
+      "count": { "type": "constant", "count": 11 },
+      "weight": 0.15
+    }
+  ]
+}

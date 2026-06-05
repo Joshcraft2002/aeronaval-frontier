@@ -1,0 +1,44 @@
+{
+  "roll": { "type": "constant", "count": 1 },
+  "input1": {
+    "filter": "numismatics:sprocket",
+    "count": { "type": "constant", "count": 1 }
+  },
+  "output": [
+    {
+      "item": "create:blaze_cake",
+      "count": { "type": "constant", "count": 8 },
+      "weight": 1.0
+    },
+    {
+      "item": "create:blaze_cake",
+      "count": { "type": "constant", "count": 10 },
+      "weight": 0.3
+    },
+    {
+      "item": "minecraft:coal",
+      "count": { "type": "constant", "count": 16 },
+      "weight": 1.0
+    },
+    {
+      "item": "minecraft:coal",
+      "count": { "type": "constant", "count": 20 },
+      "weight": 0.3
+    },
+    {
+      "item": "create:experience_nugget",
+      "count": { "type": "constant", "count": 16 },
+      "weight": 1.0
+    },
+    {
+      "item": "create:experience_nugget",
+      "count": { "type": "constant", "count": 32 },
+      "weight": 0.1
+    },
+    {
+      "item": "create:tree_fertilizer",
+      "count": { "type": "constant", "count": 8 },
+      "weight": 1.0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "requires": [
+    "musketmod"
+  ],
+  "content": {
+    "musketmod_musket": {
+      "type": "item",
+      "content": "musketmod:musket",
+      "amount": { "min": 1, "max": 4 },
+      "unitWorth": 800
+    },
+    "musketmod_blunderbuss": {
+      "type": "item",
+      "content": "musketmod:blunderbuss",
+      "amount": { "min": 1, "max": 4 },
+      "unitWorth": 1000
+    },
+    "musketmod_pistol": {
+      "type": "item",
+      "content": "musketmod:pistol",
+      "amount": { "min": 1, "max": 4 },
+      "unitWorth": 800
+    },
+    "musketmod_paper_cartridge": {
+      "type": "item",
+      "content": "musketmod:paper_cartridge",
+      "amount": { "min": 1, "max": 256 },
+      "unitWorth": 50
+    }
+  }
+}

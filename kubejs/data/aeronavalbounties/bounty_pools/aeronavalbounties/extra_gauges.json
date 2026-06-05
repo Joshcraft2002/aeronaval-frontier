@@ -1,0 +1,88 @@
+{
+  "requires": [
+    "extra_gauges"
+  ],
+  "content": {
+    "extra_gauges_factory_gauge": {
+      "type": "item",
+      "content": "extra_gauges:factory_gauge",
+      "amount": {
+        "min": 1,
+        "max": 16
+      },
+      "unitWorth": 4000
+    },
+    "extra_gauges_logic_gauge": {
+      "type": "item",
+      "content": "extra_gauges:logic_gauge",
+      "amount": {
+        "min": 1,
+        "max": 16
+      },
+      "unitWorth": 4000
+    },
+    "extra_gauges_integer_gauge": {
+      "type": "item",
+      "content": "extra_gauges:integer_gauge",
+      "amount": {
+        "min": 1,
+        "max": 16
+      },
+      "unitWorth": 4000
+    },
+    "extra_gauges_comparator_gauge": {
+      "type": "item",
+      "content": "extra_gauges:comparator_gauge",
+      "amount": {
+        "min": 1,
+        "max": 16
+      },
+      "unitWorth": 4000
+    },
+    "extra_gauges_counter_gauge": {
+      "type": "item",
+      "content": "extra_gauges:counter_gauge",
+      "amount": {
+        "min": 1,
+        "max": 16
+      },
+      "unitWorth": 4000
+    },
+    "extra_gauges_passive_gauge": {
+      "type": "item",
+      "content": "extra_gauges:passive_gauge",
+      "amount": {
+        "min": 1,
+        "max": 16
+      },
+      "unitWorth": 4000
+    },
+    "extra_gauges_string_gauge": {
+      "type": "item",
+      "content": "extra_gauges:string_gauge",
+      "amount": {
+        "min": 1,
+        "max": 16
+      },
+      "unitWorth": 4000
+    },
+    "extra_gauges_expression_gauge": {
+      "type": "item",
+      "content": "extra_gauges:expression_gauge",
+      "amount": {
+        "min": 1,
+        "max": 16
+      },
+      "unitWorth": 4000
+    },
+    "extra_gauges_filter_gauge": {
+      "type": "item",
+      "content": "extra_gauges:passive_gauge",
+      "amount": {
+        "min": 1,
+        "max": 16
+      },
+      "unitWorth": 4000
+    }
+  }
+}

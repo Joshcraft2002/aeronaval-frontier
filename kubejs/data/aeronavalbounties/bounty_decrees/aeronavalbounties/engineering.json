@@ -1,0 +1,12 @@
+{
+	"objectives": [
+		"create",
+		"create_sa",
+		"createaddition",
+		"extra_gauges",
+		"transportation"
+	],
+	"rewards": [
+		"rewards_all"
+	]
+}

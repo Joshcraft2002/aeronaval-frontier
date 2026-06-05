@@ -1,0 +1,142 @@
+{
+  "roll": {
+    "type": "constant",
+    "count": 1
+  },
+  "input1": {
+    "filter": "numismatics:sprocket",
+    "count": { "type": "constant", "count": 1 }
+  },
+  "output": [
+    {
+      "item": "minecraft:granite",
+      "count": { "type": "constant", "count": 64 },
+      "weight": 1.0
+    },
+    {
+      "item": "minecraft:diorite",
+      "count": { "type": "constant", "count": 64 },
+      "weight": 1.0
+    },
+    {
+      "item": "minecraft:andesite",
+      "count": { "type": "constant", "count": 64 },
+      "weight": 1.0
+    },
+    {
+      "item": "minecraft:calcite",
+      "count": { "type": "constant", "count": 64 },
+      "weight": 1.0
+    },
+    {
+      "item": "minecraft:dripstone_block",
+      "count": { "type": "constant", "count": 64 },
+      "weight": 1.0
+    },
+    {
+      "item": "minecraft:cobbled_deepslate",
+      "count": { "type": "constant", "count": 64 },
+      "weight": 1.0
+    },
+    {
+      "item": "minecraft:cobblestone",
+      "count": { "type": "constant", "count": 64 },
+      "weight": 1.0
+    },
+    {
+      "item": "minecraft:mossy_cobblestone",
+      "count": { "type": "constant", "count": 64 },
+      "weight": 1.0
+    },
+    {
+      "item": "minecraft:tuff",
+      "count": { "type": "constant", "count": 64 },
+      "weight": 1.0
+    },
+    {
+      "item": "create:asurine",
+      "count": { "type": "constant", "count": 64 },
+      "weight": 1.0
+    },
+    {
+      "item": "create:crimsite",
+      "count": { "type": "constant", "count": 64 },
+      "weight": 1.0
+    },
+    {
+      "item": "create:ochrum",
+      "count": { "type": "constant", "count": 64 },
+      "weight": 1.0
+    },
+    {
+      "item": "create:limestone",
+      "count": { "type": "constant", "count": 64 },
+      "weight": 1.0
+    },
+    {
+      "item": "create:scoria",
+      "count": { "type": "constant", "count": 64 },
+      "weight": 1.0
+    },
+    {
+      "item": "create:scorchia",
+      "count": { "type": "constant", "count": 64 },
+      "weight": 1.0
+    },
+    {
+      "item": "create:veridium",
+      "count": { "type": "constant", "count": 64 },
+      "weight": 1.0
+    },
+    {
+      "item": "quark:limestone",
+      "count": { "type": "constant", "count": 64 },
+      "weight": 1.0
+    },
+    {
+      "item": "quark:jasper",
+      "count": { "type": "constant", "count": 64 },
+      "weight": 1.0
+    },
+    {
+      "item": "quark:shale",
+      "count": { "type": "constant", "count": 64 },
+      "weight": 1.0
+    },
+    {
+      "item": "quark:myalite",
+      "count": { "type": "constant", "count": 64 },
+      "weight": 1.0
+    },
+    {
+      "item": "quark:permafrost",
+      "count": { "type": "constant", "count": 64 },
+      "weight": 1.0
+    },
+    {
+      "item": "minecraft:sandstone",
+      "count": { "type": "constant", "count": 64 },
+      "weight": 1.0
+    },
+    {
+      "item": "minecraft:red_sandstone",
+      "count": { "type": "constant", "count": 64 },
+      "weight": 1.0
+    },
+    {
+      "item": "minecraft:basalt",
+      "count": { "type": "constant", "count": 64 },
+      "weight": 1.0
+    },
+    {
+      "item": "minecraft:blackstone",
+      "count": { "type": "constant", "count": 64 },
+      "weight": 1.0
+    },
+    {
+      "item": "minecraft:terracotta",
+      "count": { "type": "constant", "count": 64 },
+      "weight": 1.0
+    }
+  ]
+}

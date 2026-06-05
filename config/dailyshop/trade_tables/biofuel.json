@@ -1,0 +1,18 @@
+{
+  "roll": { "type": "constant", "count": 1 },
+  "input1": {
+    "filter": "minecraft:bucket",
+    "count": { "type": "constant", "count": 4 }
+  },
+  "input2": {
+    "filter": "numismatics:sprocket",
+    "count": { "type": "constant", "count": 2 }
+  },
+  "output": [
+    {
+      "item": "createaddition:bioethanol_bucket",
+      "count": { "type": "constant", "count": 4 },
+      "weight": 1.0
+    }
+  ]
+}

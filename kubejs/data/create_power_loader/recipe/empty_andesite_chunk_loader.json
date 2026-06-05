@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "neoforge:conditions": [{"type": "neoforge:true"}],
+  "pattern": [
+    "GTG",
+    "GRG",
+    "CSC"
+  ],
+  "key": {
+    "G": {
+      "tag": "c:glass_blocks"
+    },
+    "R": {
+      "item": "minecraft:respawn_anchor"
+    },
+    "S": {
+      "item": "create:shaft"
+    },
+    "C": {
+      "item": "create:andesite_casing"
+    },
+    "T": {
+      "item": "createdeco:gold_coin"
+    }
+  },
+  "result": {
+    "id": "create_power_loader:empty_andesite_chunk_loader"
+  }
+}

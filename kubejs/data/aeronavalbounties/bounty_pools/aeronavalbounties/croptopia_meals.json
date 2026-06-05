@@ -1,0 +1,61 @@
+{
+  "requires": [
+    "croptopia"
+  ],
+  "content": {
+    "croptopia_the_big_breakfast": {
+      "type": "item",
+      "content": "croptopia:the_big_breakfast",
+      "amount": {
+        "min": 1,
+        "max": 64
+      },
+      "unitWorth": 12000
+    },
+    "croptopia_beef_wellington": {
+      "type": "item",
+      "content": "croptopia:beef_wellington",
+      "amount": {
+        "min": 1,
+        "max": 64
+      },
+      "unitWorth": 8000
+    },
+    "croptopia_stuffed_poblanos": {
+      "type": "item",
+      "content": "croptopia:stuffed_poblanos",
+      "amount": {
+        "min": 1,
+        "max": 64
+      },
+      "unitWorth": 3000
+    },
+    "croptopia_croque_madame": {
+      "type": "item",
+      "content": "croptopia:croque_madame",
+      "amount": {
+        "min": 1,
+        "max": 64
+      },
+      "unitWorth": 2500
+    },
+    "croptopia_croque_monsieur": {
+      "type": "item",
+      "content": "croptopia:croque_monsieur",
+      "amount": {
+        "min": 1,
+        "max": 64
+      },
+      "unitWorth": 2000
+    },
+    "croptopia_tuna_sandwich": {
+      "type": "item",
+      "content": "croptopia:tuna_sandwich",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 100000
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "requires": [
+    "createaddition"
+  ],
+  "content": {
+    "createaddition_rolling_mill": {
+      "type": "item",
+      "content": "createaddition:rolling_mill",
+      "amount": { "min": 1, "max": 16 },
+      "unitWorth": 800
+    },
+    "createaddition_tesla_coil": {
+      "type": "item",
+      "content": "createaddition:tesla_coil",
+      "amount": { "min": 1, "max": 16 },
+      "unitWorth": 3000
+    },
+    "createaddition_accumulator": {
+      "type": "item",
+      "content": "createaddition:accumulator",
+      "amount": { "min": 1, "max": 64 },
+      "unitWorth": 4000
+    },
+    "createaddition_alternator": {
+      "type": "item",
+      "content": "createaddition:alternator",
+      "amount": { "min": 1, "max": 16 },
+      "unitWorth": 5000
+    },
+    "createaddition_electric_motor": {
+      "type": "item",
+      "content": "createaddition:electric_motor",
+      "amount": { "min": 1, "max": 16 },
+      "unitWorth": 5000
+    }
+  }
+}

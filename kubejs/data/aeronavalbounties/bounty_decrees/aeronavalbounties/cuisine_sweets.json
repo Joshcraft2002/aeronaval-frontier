@@ -1,0 +1,11 @@
+{
+	"objectives": [
+		"create_sweets",
+		"croptopia_sweets",
+		"croptopia_pastries",
+		"farmersdelight_sweets"
+	],
+	"rewards": [
+		"rewards_cuisine"
+	]
+}

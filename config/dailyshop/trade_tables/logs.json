@@ -1,0 +1,109 @@
+{
+  "roll": { "type": "constant", "count": 1 },
+  "input1": {
+    "filter": "numismatics:sprocket",
+    "count": { "type": "constant", "count": 1 }
+  },
+  "output": [
+    {
+      "item": "minecraft:oak_log",
+      "count": { "type": "constant", "count": 64 },
+      "weight": 1.0
+    },
+    {
+      "item": "minecraft:spruce_log",
+      "count": { "type": "constant", "count": 64 },
+      "weight": 1.0
+    },
+    {
+      "item": "minecraft:birch_log",
+      "count": { "type": "constant", "count": 64 },
+      "weight": 1.0
+    },
+    {
+      "item": "minecraft:jungle_log",
+      "count": { "type": "constant", "count": 64 },
+      "weight": 1.0
+    },
+    {
+      "item": "minecraft:acacia_log",
+      "count": { "type": "constant", "count": 64 },
+      "weight": 1.0
+    },
+    {
+      "item": "minecraft:cherry_log",
+      "count": { "type": "constant", "count": 64 },
+      "weight": 1.0
+    },
+    {
+      "item": "minecraft:dark_oak_log",
+      "count": { "type": "constant", "count": 64 },
+      "weight": 1.0
+    },
+    {
+      "item": "minecraft:mangrove_log",
+      "count": { "type": "constant", "count": 64 },
+      "weight": 1.0
+    },
+    {
+      "item": "quark:ancient_log",
+      "count": { "type": "constant", "count": 32 },
+      "weight": 1.0
+    },
+    {
+      "item": "quark:azalea_log",
+      "count": { "type": "constant", "count": 64 },
+      "weight": 1.0
+    },
+    {
+      "item": "quark:blossom_log",
+      "count": { "type": "constant", "count": 64 },
+      "weight": 1.0
+    },
+    {
+      "item": "minecraft:crimson_stem",
+      "count": { "type": "constant", "count": 64 },
+      "weight": 1.0
+    },
+    {
+      "item": "minecraft:warped_stem",
+      "count": { "type": "constant", "count": 64 },
+      "weight": 1.0
+    },
+    {
+      "item": "croptopia:cinnamon_log",
+      "count": { "type": "constant", "count": 32 },
+      "weight": 1.0
+    },
+    {
+      "item": "aether:skyroot_log",
+      "count": { "type": "constant", "count": 48 },
+      "weight": 1.0
+    },
+    {
+      "item": "deep_aether:roseroot_log",
+      "count": { "type": "constant", "count": 48 },
+      "weight": 1.0
+    },
+    {
+      "item": "deep_aether:yagroot_log",
+      "count": { "type": "constant", "count": 48 },
+      "weight": 1.0
+    },
+    {
+      "item": "deep_aether:cruderoot_log",
+      "count": { "type": "constant", "count": 48 },
+      "weight": 1.0
+    },
+    {
+      "item": "deep_aether:conberry_log",
+      "count": { "type": "constant", "count": 48 },
+      "weight": 1.0
+    },
+    {
+      "item": "deep_aether:sunroot_log",
+      "count": { "type": "constant", "count": 48 },
+      "weight": 1.0
+    }
+  ]
+}

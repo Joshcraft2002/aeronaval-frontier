@@ -1,0 +1,10 @@
+{
+	"objectives": [
+		"croptopia_meals",
+		"farmersdelight_meals",
+		"dumplings_delight"
+	],
+	"rewards": [
+		"rewards_cuisine"
+	]
+}

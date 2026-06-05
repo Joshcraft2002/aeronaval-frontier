@@ -1,0 +1,39 @@
+{
+  "roll": { "type": "constant", "count": 1 },
+  "input1": {
+    "filter": "numismatics:sprocket",
+    "count": { "type": "constant", "count": 1 }
+  },
+  "output": [
+    {
+      "item": "minecraft:iron_ingot",
+      "count": { "type": "constant", "count": 16 },
+      "weight": 1.0
+    },
+    {
+      "item": "minecraft:gold_ingot",
+      "count": { "type": "constant", "count": 16 },
+      "weight": 1.0
+    },
+    {
+      "item": "create:zinc_ingot",
+      "count": { "type": "constant", "count": 16 },
+      "weight": 1.0
+    },
+    {
+      "item": "minecraft:copper_ingot",
+      "count": { "type": "constant", "count": 16 },
+      "weight": 1.0
+    },
+    {
+      "item": "minecraft:emerald",
+      "count": { "type": "constant", "count": 16 },
+      "weight": 1.0
+    },
+    {
+      "item": "minecraft:gunpowder",
+      "count": { "type": "constant", "count": 16 },
+      "weight": 1.0
+    }
+  ]
+}

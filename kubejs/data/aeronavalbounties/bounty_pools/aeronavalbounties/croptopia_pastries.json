@@ -1,0 +1,133 @@
+{
+  "requires": [
+    "croptopia"
+  ],
+  "content": {
+    "croptopia_tres_leche_cake": {
+      "type": "item",
+      "content": "croptopia:tres_leche_cake",
+      "amount": {
+        "min": 1,
+        "max": 64
+      },
+      "unitWorth": 8000
+    },
+    "croptopia_fruit_cake": {
+      "type": "item",
+      "content": "croptopia:fruit_cake",
+      "amount": {
+        "min": 1,
+        "max": 64
+      },
+      "unitWorth": 2500
+    },
+    "croptopia_banana_cream_pie": {
+      "type": "item",
+      "content": "croptopia:banana_cream_pie",
+      "amount": {
+        "min": 1,
+        "max": 64
+      },
+      "unitWorth": 2500
+    },
+    "croptopia_apple_pie": {
+      "type": "item",
+      "content": "croptopia:apple_pie",
+      "amount": {
+        "min": 1,
+        "max": 64
+      },
+      "unitWorth": 2500
+    },
+    "croptopia_cherry_pie": {
+      "type": "item",
+      "content": "croptopia:cherry_pie",
+      "amount": {
+        "min": 1,
+        "max": 64
+      },
+      "unitWorth": 2500
+    },
+    "croptopia_pecan_pie": {
+      "type": "item",
+      "content": "croptopia:pecan_pie",
+      "amount": {
+        "min": 1,
+        "max": 64
+      },
+      "unitWorth": 3000
+    },
+    "croptopia_rhubarb_pie": {
+      "type": "item",
+      "content": "croptopia:rhubarb_pie",
+      "amount": {
+        "min": 1,
+        "max": 64
+      },
+      "unitWorth": 2500
+    },
+    "croptopia_scones": {
+      "type": "item",
+      "content": "croptopia:scones",
+      "amount": {
+        "min": 1,
+        "max": 64
+      },
+      "unitWorth": 1800
+    },
+    "croptopia_pumpkin_bar": {
+      "type": "item",
+      "content": "croptopia:pumpkin_bar",
+      "amount": {
+        "min": 1,
+        "max": 64
+      },
+      "unitWorth": 2500
+    },
+    "croptopia_brownies": {
+      "type": "item",
+      "content": "croptopia:brownies",
+      "amount": {
+        "min": 1,
+        "max": 64
+      },
+      "unitWorth": 1800
+    },
+    "croptopia_treacle_tart": {
+      "type": "item",
+      "content": "croptopia:treacle_tart",
+      "amount": {
+        "min": 1,
+        "max": 64
+      },
+      "unitWorth": 1000
+    },
+    "croptopia_macaron": {
+      "type": "item",
+      "content": "croptopia:macaron",
+      "amount": {
+        "min": 1,
+        "max": 64
+      },
+      "unitWorth": 800
+    },
+    "croptopia_doughnut": {
+      "type": "item",
+      "content": "croptopia:doughnut",
+      "amount": {
+        "min": 1,
+        "max": 64
+      },
+      "unitWorth": 200
+    },
+    "croptopia_snicker_doodle": {
+      "type": "item",
+      "content": "croptopia:snicker_doodle",
+      "amount": {
+        "min": 1,
+        "max": 64
+      },
+      "unitWorth": 100
+    }
+  }
+}

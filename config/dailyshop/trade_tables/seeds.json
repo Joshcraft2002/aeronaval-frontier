@@ -1,0 +1,55 @@
+{
+  "roll": {
+    "type": "constant",
+    "count": 1
+  },
+  "input1": {
+    "filter": "numismatics:sprocket",
+    "count": {
+      "type": "constant",
+      "count": 1
+    }
+  },
+  "output": [
+    {
+      "item": "wheat_seeds",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1.0
+    },
+    {
+      "item": "pumpkin_seeds",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1.0
+    },
+    {
+      "item": "melon_seeds",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1.0
+    },
+    {
+      "item": "torchflower_seeds",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1.0
+    },
+    {
+      "item": "beetroot_seeds",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1.0
+    }
+  ]
+}

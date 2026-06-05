@@ -1,0 +1,106 @@
+{
+  "requires": [
+    "croptopia"
+  ],
+  "content": {
+    "croptopia_candy_corn": {
+      "type": "item",
+      "content": "croptopia:candy_corn",
+      "amount": {
+        "min": 1,
+        "max": 64
+      },
+      "unitWorth": 100
+    },
+    "croptopia_candied_nuts": {
+      "type": "item",
+      "content": "croptopia:candied_nuts",
+      "amount": {
+        "min": 1,
+        "max": 64
+      },
+      "unitWorth": 100
+    },
+    "croptopia_candied_kumquats": {
+      "type": "item",
+      "content": "croptopia:candied_kumquats",
+      "amount": {
+        "min": 1,
+        "max": 64
+      },
+      "unitWorth": 100
+    },
+    "croptopia_nougat": {
+      "type": "item",
+      "content": "croptopia:nougat",
+      "amount": {
+        "min": 1,
+        "max": 64
+      },
+      "unitWorth": 1800
+    },
+    "croptopia_meringue": {
+      "type": "item",
+      "content": "croptopia:meringue",
+      "amount": {
+        "min": 1,
+        "max": 64
+      },
+      "unitWorth": 800
+    },
+    "croptopia_lemon_coconut_bar": {
+      "type": "item",
+      "content": "croptopia:lemon_coconut_bar",
+      "amount": {
+        "min": 1,
+        "max": 64
+      },
+      "unitWorth": 2000
+    },
+    "croptopia_figgy_pudding": {
+      "type": "item",
+      "content": "croptopia:figgy_pudding",
+      "amount": {
+        "min": 1,
+        "max": 64
+      },
+      "unitWorth": 3000
+    },
+    "croptopia_eton_mess": {
+      "type": "item",
+      "content": "croptopia:eton_mess",
+      "amount": {
+        "min": 1,
+        "max": 64
+      },
+      "unitWorth": 4000
+    },
+    "croptopia_sticky_toffee_pudding": {
+      "type": "item",
+      "content": "croptopia:sticky_toffee_pudding",
+      "amount": {
+        "min": 1,
+        "max": 64
+      },
+      "unitWorth": 6000
+    },
+    "croptopia_trifle": {
+      "type": "item",
+      "content": "croptopia:trifle",
+      "amount": {
+        "min": 1,
+        "max": 64
+      },
+      "unitWorth": 9000
+    },
+    "croptopia_rum_raisin_ice_cream": {
+      "type": "item",
+      "content": "croptopia:rum_raisin_ice_cream",
+      "amount": {
+        "min": 1,
+        "max": 64
+      },
+      "unitWorth": 5000
+    }
+  }
+}

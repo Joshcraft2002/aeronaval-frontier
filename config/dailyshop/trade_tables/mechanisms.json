@@ -1,0 +1,34 @@
+{
+  "roll": { "type": "constant", "count": 1 },
+  "input1": {
+    "filter": "numismatics:cog",
+    "count": { "type": "constant", "count": 1 }
+  },
+  "output": [
+    {
+      "item": "create:precision_mechanism",
+      "count": { "type": "constant", "count": 2 },
+      "weight": 1.0
+    },
+    {
+      "item": "create_sa:steam_engine",
+      "count": { "type": "constant", "count": 2 },
+      "weight": 1.0
+    },
+    {
+      "item": "create_sa:heat_engine",
+      "count": { "type": "constant", "count": 3 },
+      "weight": 1.0
+    },
+    {
+      "item": "create_sa:hydraulic_engine",
+      "count": { "type": "constant", "count": 3 },
+      "weight": 1.0
+    },
+    {
+      "item": "simulated:gyroscopic_mechanism",
+      "count": { "type": "constant", "count": 2 },
+      "weight": 1.0
+    }
+  ]
+}

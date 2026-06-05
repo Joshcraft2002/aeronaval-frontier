@@ -1,0 +1,35 @@
+{
+  "type": "create:mechanical_crafting",
+  "neoforge:conditions": [{"type": "neoforge:true"}],
+  "accept_mirrored": false,
+  "key": {
+    "G": {
+      "tag": "c:glass_blocks"
+    },
+    "R": {
+      "item": "minecraft:respawn_anchor"
+    },
+    "S": {
+      "item": "create:shaft"
+    },
+    "C": {
+      "item": "create:brass_casing"
+    },
+    "P": {
+      "item": "create:precision_mechanism"
+    },
+    "T": {
+      "item": "createdeco:gold_coin"
+    }
+  },
+  "pattern": [
+    "GGGGG",
+    "G T G",
+    "G R G",
+    "CPPPC",
+    "CCSCC"
+  ],
+  "result": {
+    "id": "create_power_loader:empty_brass_chunk_loader"
+  }
+}
