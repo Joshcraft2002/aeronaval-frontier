@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "MPM",
+    " C ",
+    " W "
+  ],
+  "key": {
+    "P": {
+      "item": "minecraft:compass"
+    },
+    "C": {
+      "item": "numismatics:cog"
+    },
+    "W": {
+      "tag": "minecraft:logs"
+    },
+    "M": {
+      "item": "minecraft:map"
+    }
+  },
+  "result": {
+    "id": "aeronautics_delivery_quests:delivery_quests_table",
+    "count": 1
+  }
+}
