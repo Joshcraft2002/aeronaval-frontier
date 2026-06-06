@@ -1,0 +1,77 @@
+[general]
+	#Interval in minutes between automatic quest generation checks.
+	# Default: 30
+	# Range: 1 ~ 1440
+	questCreationInterval = 5
+	#Maximum number of concurrent available quests on the board.
+	# Default: 8
+	# Range: 0 ~ 18
+	maxActiveQuestsPerBoard = 8
+	#Minimum distance (in blocks) between quest start and delivery location.
+	# Default: 500
+	# Range: 100 ~ 10000
+	minDeliveryDistance = 1000
+	#Maximum distance (in blocks) between quest start and delivery location.
+	# Default: 2000
+	# Range: 500 ~ 50000
+	maxDeliveryDistance = 2000
+	#Time limit in minutes to complete an accepted quest before failure.
+	# Default: 60
+	# Range: 5 ~ 1440
+	questTimeLimit = 30
+	#Quest spawn location mode. Controls how pickup and delivery endpoints are located:
+	#  - 'VILLAGE': Targets Minecraft villages (using the #minecraft:village structure tag). Recommended for vanilla/thematic delivery routes.
+	#  - 'ANY_STRUCTURE': Targets any registered Overworld structure (surface/top-level only). Recommended for adventurous exploration.
+	#  - 'RANDOM': Targets random coordinates in the wild. Chunks are loaded dynamically to query the heightmap and find a safe surface landing zone.
+	#Allowed Values: VILLAGE, ANY_STRUCTURE, RANDOM
+	questLocationMode = "VILLAGE"
+	#Expiration timer in minutes for unclaimed quests on the board before they cycle out.
+	# Default: 60
+	# Range: 5 ~ 1440
+	questExpirationTime = 60
+	#Scaling amount of blocks added to the distance between the two furthest players to determine quest generation radius.
+	# Default: 1000
+	# Range: 100 ~ 10000
+	playerRadiusScaling = 1000
+	#Default search radius in blocks for quest generation if only one player is online.
+	# Default: 1000
+	# Range: 100 ~ 10000
+	minPlayerRadius = 1000
+	#Scale of reward penalty applied for missing cargo blocks upon delivery (1.0 = fully proportional). Only applies if cargo invulnerability is disabled.
+	# Default: 1.0
+	# Range: 0.0 ~ 5.0
+	rewardReductionScale = 1.0
+	#If true, cargo blocks and subLevels are completely indestructible and immune to player breaks, placement, explosions, and mob griefing. Also bypasses reward scaling penalty.
+	enableCargoInvulnerability = false
+	#Minimum distance in blocks between the player and the generated quest starting pickup location.
+	# Default: 300
+	# Range: 0 ~ 5000
+	minStartDistance = 300
+	#Quest generation mode. Controls how quest information (name, reward, schematic, weight) is selected:
+	#  - 'CUSTOM': Loads full, structured quests directly from 'config/aeronautics_delivery_quests/custom_quests.json'. These are spawned exactly as defined by the server administrator.
+	#  - 'PROCEDURAL': Dynamically mixes and matches components. It randomly picks names, descriptions, weights, schematics, and rewards from different templates in 'custom_quests.json'.
+	#  - Fallback: If 'custom_quests.json' is missing, empty, or invalid, both modes auto-fallback to procedural generation drawing from 6+ default schematics and 5+ default balanced template definitions.
+	#Allowed Values: CUSTOM, PROCEDURAL
+	questGenerationMode = "CUSTOM"
+
+[announcements]
+	#Whether to broadcast to the server when a player accepts a quest.
+	announceAccept = false
+	#Whether to broadcast to the server when a player secures quest cargo.
+	announceSecure = false
+	#Whether to broadcast to the server when a player completes a quest.
+	announceComplete = false
+	#Whether to broadcast to the server when a player cancels a quest.
+	announceCancel = false
+	#Whether to broadcast to the server when a quest fails due to time expiration.
+	announceFail = false
+	#Whether to broadcast to the server when quest generation fails to locate villages.
+	announceGenFail = false
+
+[rewards]
+	#Loot table for Light quests. Format: namespace:item_id:count
+	lightRewards = ["numismatics:spur:4"]
+	#Loot table for Medium quests. Format: namespace:item_id:count
+	mediumRewards = ["numismatics:spur:6"]
+	#Loot table for Heavy quests. Format: namespace:item_id:count
+	heavyRewards = ["numismatics:spur:8"]

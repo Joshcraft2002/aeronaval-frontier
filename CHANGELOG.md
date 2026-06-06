@@ -7,6 +7,7 @@
 - Daily shop
     - sells building materials, resources, and buys & sells energy
     - content to be expanded later *(this is an initial run)*
+- Delivery Quests that award spurs for transporting cargo
 - Seagulls no longer take iron or gold lunchboxes
 - (Train) Tracks can be placed in batches of up to 64 (from 32)
 - Wrenching track mounts now properly gives the item
@@ -19,13 +20,14 @@
 - Mostly unified milk recipes *(will need further refining later)*
 ## Mod Changes
 ### Added:
+- Aeronautics Delivery Quests
 - AFKStatus
 - Backpacked: Wet Backpacks
+- Backpacked: World of Color
 - Clumps
 - Controlling
 - Corpse x Cosmetic Armor Reworked Compat
 - Cosmetic Armor Reworked
-- CosmeticArmours
 - Create: Oxidized
 - Create: Power Loader
 - Daily Shop
@@ -46,7 +48,8 @@
 - Create Aeronautics: Throwable Rope Connector (0.2.2 > 0.3.0)
 - Create: Big Cannons (5.11.3 > 5.11.5)
 - Create: Connected (1.1.16 > 1.2.0)
-- Create Craffts & Additions (1.5.10 > 1.6.0)
+- Create: Dragons Plus (I forgor > 1.11.1)
+- Create Crafts & Additions (1.5.10 > 1.6.0)
 - Create Stuff 'N Additions x Sable & Aeronautics Compat (1.0.1 > 1.0.3)
 - CreativeCore (2.13.38 > 2.13.41)
 - Creatures and Beasts: Continued (1.7.8 > 1.7.17)
@@ -65,7 +68,7 @@
 - Spartan Weaponry Unofficial (1.1.1 > 1.2.0)
 - Structurize (1.0.822 > 1.0.830)
 - Stylecolonies (1.15.51 > 1.15.54)
-- Supplementaries (3.6.4 > 3.6.6)
+- Supplementaries (3.6.4 > 3.6.7)
 ### Removed:
 - Create: Crafts & Additions and Aeronautics Compat (fixed in latest CCA)
 - Create : Numismatic Bounties (replaced with pack's custom bounties)

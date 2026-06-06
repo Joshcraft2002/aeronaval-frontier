@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Secret Industrial Core",
+    "description": "A highly critical delivery containing sensitive mechanical components. Keep the shipment secure and intact!",
+    "schematicName": "medium_machinery_pallet",
+    "weightClass": "Medium",
+    "actualWeight": 3500.0,
+    "rewards": [
+      "numismatics:spur:4"
+    ]
+  },
+  {
+    "name": "High-Value Vault Transport",
+    "description": "Transport a reinforced secure container containing corporate assets. Heavy and highly guarded!",
+    "schematicName": "heavy_secure_container",
+    "weightClass": "Heavy",
+    "actualWeight": 9000.0,
+    "rewards": [
+      "numismatics:spur:6"
+    ]
+  },
+  {
+    "name": "Emergency Food Supplies",
+    "description": "Deliver urgent food rations to a starving village. Fast transport is requested.",
+    "schematicName": "light_food_crate",
+    "weightClass": "Light",
+    "actualWeight": 1200.0,
+    "rewards": [
+      "numismatics:spur:4"
+    ]
+  },
+  {
+    "name": "Standard Copper Shipment",
+    "description": "A shipment of raw copper ores for industrial smelting.",
+    "schematicName": "medium_ore_crate",
+    "weightClass": "Medium",
+    "actualWeight": 4000.0,
+    "rewards": [
+      "numismatics:spur:4"
+    ]
+  },
+  {
+    "name": "Industrial Boiler Delivery",
+    "description": "Transport a massive industrial boiler unit to the high-altitude power station.",
+    "schematicName": "heavy_industrial_boiler",
+    "weightClass": "Heavy",
+    "actualWeight": 11000.0,
+    "rewards": [
+      "numismatics:spur:8"
+    ]
+  },
+  {
+    "name": "Standard Cargo Haul",
+    "description": "A simple transport contract of standard copper components.",
+    "schematicName": "light_cargo_crate",
+    "weightClass": "Light",
+    "actualWeight": 1500.0,
+    "rewards": [
+      "numismatics:spur:3"
+    ]
+  }
+]
