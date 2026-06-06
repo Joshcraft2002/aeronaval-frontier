@@ -4,6 +4,7 @@
     - now sell based
     - split into four decrees: Cuisine - Meals, Cuisine - Sweets & Pastries, Arms, Engineering
     - more to be added later *(this is an initial run)*
+> May have to replace existing decrees
 - Daily shop
     - sells building materials, resources, and buys & sells energy
     - content to be expanded later *(this is an initial run)*
@@ -38,6 +39,7 @@
 - Rhino
 - Searchables
 - Simple Weather
+- Simulated Gauges
 - Sooty Chimneys
 - Tameable Foxes
 - TooManyRecipeViewers
