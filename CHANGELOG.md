@@ -74,4 +74,5 @@
 - Create : Numismatic Bounties (replaced with pack's custom bounties)
 - Extra Bounties (replaced with pack's custom bounties)
 - Just Enough Items (replaced with TMRV, for EMI)
+- Openloader (Mostly replaced by KubeJS, but may change)
 - Vista Aeronautics Fix (fixed in latest Vista)
