@@ -1,0 +1,108 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "simulated:engine_assembly"
+  },
+  "loops": 3,
+  "results": [
+    {
+      "chance": 120.0,
+      "item": {
+      	"id": "create_sa:hydraulic_engine"
+      }
+    },
+    {
+      "chance": 8.0,
+      "item": {
+      	"id": "create:copper_sheet"
+      }
+    },
+    {
+      "chance": 2.0,
+      "item": {
+      	"id": "create:andesite_alloy"
+      }
+    },
+    {
+      "chance": 2.0,
+      "item": {
+      	"id": "create:iron_sheet"
+      }
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create_sa:incomplete_steam_engine"
+        },
+        {
+          "tag": "c:plates/copper"
+        }
+      ],
+      "results": [
+        {
+          "item":  {
+            "id": "create_sa:incomplete_steam_engine"
+          }
+        }
+      ]
+    },
+     {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "create_sa:incomplete_hydraulic_engine"
+        },
+        {
+          "type": "fluid_stack",
+	      "amount": 250,
+	      "fluid": "minecraft:water"
+        }
+      ],
+      "results": [
+        {
+          "item": {
+            "id": "create_sa:incomplete_hydraulic_engine"
+          }
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "create_sa:incomplete_hydraulic_engine"
+        }
+      ],
+      "results": [
+        {
+          "item": {
+            "id": "create_sa:incomplete_hydraulic_engine"
+          }
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "create_sa:incomplete_hydraulic_engine"
+        }
+      ],
+      "results": [
+        {
+          "item": {
+            "id": "create_sa:incomplete_hydraulic_engine"
+          }
+        }
+      ]
+    }
+  ],
+  "transitional_item": {
+    "item": {
+    	"id": "create_sa:incomplete_hydraulic_engine"
+    }
+  }
+}

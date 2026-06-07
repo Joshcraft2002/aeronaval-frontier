@@ -1,3 +1,13 @@
+# 2.2
+(In hindsight 2.1 should've been major version 3.0 but oh well)
+- Changed (Create: Stuff 'N Additions) engine recipes to take engine assemblies
+    - portable engines now also require a heat engine to craft
+    - increased bounty rewards for certain crafts using these engines
+- Renamed Steam Engine (Create: Stuff 'N Additions) to Pocket Steam Engine 
+- Adjusted Daily Shop stock to not exceed 99 items sold per transaction
+- Fixed some items in Create: Interiors being uncraftable
+- Turned off showing tags in tooltips by default
+
 # 2.1
 ## General Changes
 - Bounties reworked

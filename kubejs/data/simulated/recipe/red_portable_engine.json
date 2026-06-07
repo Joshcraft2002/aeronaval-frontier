@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "create:andesite_alloy"
+    },
+    "E": {
+      "item": "create_sa:heat_engine"
+    },
+    "G": {
+      "item": "create:iron_sheet"
+    }
+  },
+  "pattern": [
+    "G",
+    "E",
+    "B"
+  ],
+  "result": {
+    "count": 1,
+    "id": "simulated:red_portable_engine"
+  }
+}

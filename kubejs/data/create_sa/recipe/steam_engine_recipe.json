@@ -1,0 +1,130 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "simulated:engine_assembly"
+  },
+  "loops": 3,
+  "results": [
+    {
+      "chance": 120.0,
+      "item": {
+      	"id": "create_sa:steam_engine"
+      }
+    },
+    {
+      "chance": 8.0,
+      "item": {
+      	"id": "create:brass_sheet"
+      }
+    },
+    {
+      "chance": 2.0,
+      "item": {
+      	"id": "create:andesite_alloy"
+      }
+    },
+    {
+      "chance": 2.0,
+      "item": {
+      	"id": "create:iron_sheet"
+      }
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create_sa:incomplete_steam_engine"
+        },
+        {
+          "tag": "c:plates/brass"
+        }
+      ],
+      "results": [
+        {
+          "item":  {
+            "id": "create_sa:incomplete_steam_engine"
+          }
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create_sa:incomplete_steam_engine"
+        },
+        {
+          "item": "create:cogwheel"
+        }
+      ],
+      "results": [
+        {
+          "item":  {
+            "id": "create_sa:incomplete_steam_engine"
+          }
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create_sa:incomplete_steam_engine"
+        },
+        {
+          "item": "create:large_cogwheel"
+        }
+      ],
+      "results": [
+        {
+          "item":  {
+            "id": "create_sa:incomplete_steam_engine"
+          }
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create_sa:incomplete_steam_engine"
+        },
+        {
+          "item": "create:propeller"
+        }
+      ],
+      "results": [
+        {
+          "item":  {
+            "id": "create_sa:incomplete_steam_engine"
+          }
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create_sa:incomplete_steam_engine"
+        },
+        {
+          "item": "create:andesite_alloy"
+        }
+      ],
+      "results": [
+        {
+          "item":  {
+            "id": "create_sa:incomplete_steam_engine"
+          }
+        }
+      ]
+    }
+  ],
+  "transitional_item": {
+    "item": {
+      "id": "create_sa:incomplete_steam_engine"
+    }
+  }
+}

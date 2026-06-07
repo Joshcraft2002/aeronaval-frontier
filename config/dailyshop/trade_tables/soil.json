@@ -10,17 +10,17 @@
   "output": [
     {
       "item": "minecraft:dirt",
-      "count": { "type": "constant", "count": 128 },
+      "count": { "type": "constant", "count": 96 },
       "weight": 1.0
     },
     {
       "item": "minecraft:gravel",
-      "count": { "type": "constant", "count": 128 },
+      "count": { "type": "constant", "count": 96 },
       "weight": 1.0
     },
     {
       "item": "minecraft:sand",
-      "count": { "type": "constant", "count": 128 },
+      "count": { "type": "constant", "count": 96 },
       "weight": 1.0
     },
     {
