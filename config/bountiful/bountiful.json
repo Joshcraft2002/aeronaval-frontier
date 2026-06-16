@@ -29,7 +29,13 @@
     "general": {
         "dataPathsToExclude": [
             "bounty_decrees/bountiful/*",
-            "bounty_pools/bountiful/*"
+            "bounty_pools/bountiful/*",
+            "bounty_pools/cookingforblockheads/*",
+            "bounty_pools/croptopia/*",
+            "bounty_pools/farmersdelight/*",
+            "bounty_pools/musketmod/*",
+            "bounty_pools/supplementaries/*",
+            "bounty_pools/tide/*"
         ]
     }
 }

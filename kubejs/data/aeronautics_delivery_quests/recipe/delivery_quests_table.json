@@ -3,18 +3,21 @@
   "category": "misc",
   "pattern": [
     "MPM",
-    " C ",
-    " W "
+    "GSG",
+    " L "
   ],
   "key": {
     "P": {
       "item": "minecraft:compass"
     },
-    "C": {
+    "S": {
       "item": "numismatics:cog"
     },
-    "W": {
+    "L": {
       "tag": "minecraft:logs"
+    },
+    "G": {
+      "tag": "c:plates/gold"
     },
     "M": {
       "item": "minecraft:map"

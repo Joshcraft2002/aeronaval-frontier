@@ -7,31 +7,31 @@
       "type": "item",
       "content": "createaddition:rolling_mill",
       "amount": { "min": 1, "max": 16 },
-      "unitWorth": 800
+      "unitWorth": 528
     },
     "createaddition_tesla_coil": {
       "type": "item",
       "content": "createaddition:tesla_coil",
       "amount": { "min": 1, "max": 16 },
-      "unitWorth": 3000
+      "unitWorth": 2000
     },
     "createaddition_accumulator": {
       "type": "item",
       "content": "createaddition:accumulator",
       "amount": { "min": 1, "max": 64 },
-      "unitWorth": 4000
+      "unitWorth": 2640
     },
     "createaddition_alternator": {
       "type": "item",
       "content": "createaddition:alternator",
       "amount": { "min": 1, "max": 16 },
-      "unitWorth": 5000
+      "unitWorth": 3300
     },
     "createaddition_electric_motor": {
       "type": "item",
       "content": "createaddition:electric_motor",
       "amount": { "min": 1, "max": 16 },
-      "unitWorth": 5000
+      "unitWorth": 3300
     }
   }
 }

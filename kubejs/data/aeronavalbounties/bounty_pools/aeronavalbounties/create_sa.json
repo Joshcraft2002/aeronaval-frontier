@@ -7,55 +7,55 @@
       "type": "item",
       "content": "create_sa:copper_jetpack",
       "amount": { "min": 1, "max": 4 },
-      "unitWorth": 20000
+      "unitWorth": 13200
     },
     "create_sa_copper_exoskeleton_chestplate": {
       "type": "item",
       "content": "create_sa:copper_exoskeleton_chestplate",
       "amount": { "min": 1, "max": 4 },
-      "unitWorth": 20000
+      "unitWorth": 13200
     },
     "create_sa_andesite_jetpack": {
       "type": "item",
       "content": "create_sa:andesite_jetpack",
       "amount": { "min": 1, "max": 4 },
-      "unitWorth": 25000
+      "unitWorth": 16500
     },
     "create_sa_andesite_exoskeleton_chestplate": {
       "type": "item",
       "content": "create_sa:andesite_exoskeleton_chestplate",
       "amount": { "min": 1, "max": 4 },
-      "unitWorth": 25000
+      "unitWorth": 16500
     },
     "create_sa_brass_jetpack": {
       "type": "item",
       "content": "create_sa:brass_jetpack",
       "amount": { "min": 1, "max": 4 },
-      "unitWorth": 40000
+      "unitWorth": 26400
     },
     "create_sa_brass_exoskeleton_chestplate": {
       "type": "item",
       "content": "create_sa:brass_exoskeleton_chestplate",
       "amount": { "min": 1, "max": 4 },
-      "unitWorth": 40000
+      "unitWorth": 26400
     },
     "create_sa_flamethrower": {
       "type": "item",
       "content": "create_sa:flamethrower",
       "amount": { "min": 1, "max": 4 },
-      "unitWorth": 35000
+      "unitWorth": 23100
     },
     "create_mechanical_arm": {
       "type": "item",
       "content": "create:mechanical_arm",
       "amount": { "min": 1, "max": 16 },
-      "unitWorth": 10000
+      "unitWorth": 6000
     },
     "create_tweaked_controllers_tweaked_controller": {
       "type": "item",
       "content": "create_tweaked_controllers:tweaked_controller",
       "amount": { "min": 1, "max": 16 },
-      "unitWorth": 10000
+      "unitWorth": 6000
     }
   }
 }

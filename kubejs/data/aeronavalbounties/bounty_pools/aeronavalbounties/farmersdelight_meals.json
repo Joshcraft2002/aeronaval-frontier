@@ -10,7 +10,7 @@
         "min": 1,
         "max": 8
       },
-      "unitWorth": 60000
+      "unitWorth": 40000
     },
     "farmersdelight_shepherds_pie": {
       "type": "item",
@@ -19,7 +19,7 @@
         "min": 1,
         "max": 8
       },
-      "unitWorth": 20000
+      "unitWorth": 13000
     },
     "farmersdelight_shepherds_pie_block": {
       "type": "item",
@@ -28,7 +28,7 @@
         "min": 1,
         "max": 8
       },
-      "unitWorth": 20000
+      "unitWorth": 13000
     },
     "farmersdelight_stuffed_pumpkin_block": {
       "type": "item",
@@ -37,7 +37,7 @@
         "min": 1,
         "max": 8
       },
-      "unitWorth": 20000
+      "unitWorth": 13000
     },
     "farmersdelight_ratatouille": {
       "type": "item",
@@ -46,7 +46,7 @@
         "min": 1,
         "max": 16
       },
-      "unitWorth": 2000
+      "unitWorth": 1300
     },
     "farmersdelight_squid_ink_pasta": {
       "type": "item",
@@ -55,7 +55,7 @@
         "min": 1,
         "max": 16
       },
-      "unitWorth": 4000
+      "unitWorth": 2600
     },
     "farmersdelight_grilled_salmon": {
       "type": "item",
@@ -64,7 +64,7 @@
         "min": 1,
         "max": 16
       },
-      "unitWorth": 4000
+      "unitWorth": 2600
     },
     "farmersdelight_noodle_soup": {
       "type": "item",
@@ -73,7 +73,7 @@
         "min": 1,
         "max": 16
       },
-      "unitWorth": 2000
+      "unitWorth": 1300
     },
     "farmersdelight_bone_broth": {
       "type": "item",
@@ -82,7 +82,7 @@
         "min": 1,
         "max": 16
       },
-      "unitWorth": 1000
+      "unitWorth": 600
     },
     "farmersdelight_pasta_with_meatballs": {
       "type": "item",
@@ -91,7 +91,7 @@
         "min": 1,
         "max": 16
       },
-      "unitWorth": 2000
+      "unitWorth": 1300
     },
     "farmersdelight_baked_cod_stew": {
       "type": "item",
@@ -100,7 +100,7 @@
         "min": 1,
         "max": 16
       },
-      "unitWorth": 4000
+      "unitWorth": 2600
     },
     "farmersdelight_vegetable_soup": {
       "type": "item",
@@ -109,7 +109,7 @@
         "min": 1,
         "max": 16
       },
-      "unitWorth": 2000
+      "unitWorth": 1300
     },
     "farmersdelight_chicken_soup": {
       "type": "item",
@@ -118,7 +118,7 @@
         "min": 1,
         "max": 16
       },
-      "unitWorth": 2000
+      "unitWorth": 1300
     },
     "farmersdelight_fish_stew": {
       "type": "item",
@@ -127,7 +127,7 @@
         "min": 1,
         "max": 16
       },
-      "unitWorth": 4000
+      "unitWorth": 2600
     },
     "farmersdelight_fried_rice": {
       "type": "item",
@@ -136,7 +136,7 @@
         "min": 1,
         "max": 16
       },
-      "unitWorth": 2000
+      "unitWorth": 1300
     },
     "farmersdelight_vegetable_noodles": {
       "type": "item",
@@ -145,7 +145,7 @@
         "min": 1,
         "max": 16
       },
-      "unitWorth": 2000
+      "unitWorth": 1300
     },
     "farmersdelight_mushroom_rice": {
       "type": "item",
@@ -154,7 +154,7 @@
         "min": 1,
         "max": 16
       },
-      "unitWorth": 2000
+      "unitWorth": 1300
     },
     "farmersdelight_pumpkin_soup": {
       "type": "item",
@@ -163,7 +163,7 @@
         "min": 1,
         "max": 16
       },
-      "unitWorth": 2000
+      "unitWorth": 1300
     },
     "farmersdelight_dumpling": {
       "type": "item",
@@ -172,7 +172,7 @@
         "min": 1,
         "max": 64
       },
-      "unitWorth": 1000
+      "unitWorth": 600
     }
   }
 }

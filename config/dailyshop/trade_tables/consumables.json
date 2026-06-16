@@ -2,7 +2,7 @@
   "roll": { "type": "constant", "count": 1 },
   "input1": {
     "filter": "numismatics:sprocket",
-    "count": { "type": "constant", "count": 1 }
+    "count": { "type": "constant", "count": 3 }
   },
   "output": [
     {
@@ -38,6 +38,16 @@
     {
       "item": "create:tree_fertilizer",
       "count": { "type": "constant", "count": 8 },
+      "weight": 1.0
+    },
+    {
+      "item": "exposure:black_and_white_film",
+      "count": { "type": "constant", "count": 7 },
+      "weight": 1.0
+    },
+    {
+      "item": "exposure:color_film",
+      "count": { "type": "constant", "count": 4 },
       "weight": 1.0
     }
   ]

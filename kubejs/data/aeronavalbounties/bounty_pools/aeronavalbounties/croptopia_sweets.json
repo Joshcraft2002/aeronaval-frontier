@@ -10,7 +10,7 @@
         "min": 1,
         "max": 64
       },
-      "unitWorth": 100
+      "unitWorth": 60
     },
     "croptopia_candied_nuts": {
       "type": "item",
@@ -19,7 +19,7 @@
         "min": 1,
         "max": 64
       },
-      "unitWorth": 100
+      "unitWorth": 60
     },
     "croptopia_candied_kumquats": {
       "type": "item",
@@ -28,7 +28,7 @@
         "min": 1,
         "max": 64
       },
-      "unitWorth": 100
+      "unitWorth": 60
     },
     "croptopia_nougat": {
       "type": "item",
@@ -37,7 +37,7 @@
         "min": 1,
         "max": 64
       },
-      "unitWorth": 1800
+      "unitWorth": 1200
     },
     "croptopia_meringue": {
       "type": "item",
@@ -46,7 +46,7 @@
         "min": 1,
         "max": 64
       },
-      "unitWorth": 800
+      "unitWorth": 500
     },
     "croptopia_lemon_coconut_bar": {
       "type": "item",
@@ -55,7 +55,7 @@
         "min": 1,
         "max": 64
       },
-      "unitWorth": 2000
+      "unitWorth": 1300
     },
     "croptopia_figgy_pudding": {
       "type": "item",
@@ -64,7 +64,7 @@
         "min": 1,
         "max": 64
       },
-      "unitWorth": 3000
+      "unitWorth": 2000
     },
     "croptopia_eton_mess": {
       "type": "item",
@@ -73,7 +73,7 @@
         "min": 1,
         "max": 64
       },
-      "unitWorth": 4000
+      "unitWorth": 2600
     },
     "croptopia_sticky_toffee_pudding": {
       "type": "item",
@@ -82,7 +82,7 @@
         "min": 1,
         "max": 64
       },
-      "unitWorth": 6000
+      "unitWorth": 4000
     },
     "croptopia_trifle": {
       "type": "item",
@@ -91,7 +91,7 @@
         "min": 1,
         "max": 64
       },
-      "unitWorth": 9000
+      "unitWorth": 6000
     },
     "croptopia_rum_raisin_ice_cream": {
       "type": "item",
@@ -100,7 +100,7 @@
         "min": 1,
         "max": 64
       },
-      "unitWorth": 5000
+      "unitWorth": 3300
     }
   }
 }

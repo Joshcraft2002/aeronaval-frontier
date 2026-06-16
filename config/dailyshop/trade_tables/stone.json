@@ -5,7 +5,7 @@
   },
   "input1": {
     "filter": "numismatics:sprocket",
-    "count": { "type": "constant", "count": 1 }
+    "count": { "type": "constant", "count": 3 }
   },
   "output": [
     {
@@ -15,12 +15,12 @@
     },
     {
       "item": "minecraft:diorite",
-      "count": { "type": "constant", "count": 64 },
+      "count": { "type": "constant", "count": 48 },
       "weight": 1.0
     },
     {
       "item": "minecraft:andesite",
-      "count": { "type": "constant", "count": 64 },
+      "count": { "type": "constant", "count": 48 },
       "weight": 1.0
     },
     {
@@ -55,17 +55,17 @@
     },
     {
       "item": "create:asurine",
-      "count": { "type": "constant", "count": 64 },
+      "count": { "type": "constant", "count": 32 },
       "weight": 1.0
     },
     {
       "item": "create:crimsite",
-      "count": { "type": "constant", "count": 64 },
+      "count": { "type": "constant", "count": 32 },
       "weight": 1.0
     },
     {
       "item": "create:ochrum",
-      "count": { "type": "constant", "count": 64 },
+      "count": { "type": "constant", "count": 32 },
       "weight": 1.0
     },
     {
@@ -85,7 +85,7 @@
     },
     {
       "item": "create:veridium",
-      "count": { "type": "constant", "count": 64 },
+      "count": { "type": "constant", "count": 48 },
       "weight": 1.0
     },
     {

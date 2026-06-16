@@ -6,7 +6,7 @@
   },
   "input2": {
     "filter": "numismatics:sprocket",
-    "count": { "type": "constant", "count": 2 }
+    "count": { "type": "constant", "count": 6 }
   },
   "output": [
     {

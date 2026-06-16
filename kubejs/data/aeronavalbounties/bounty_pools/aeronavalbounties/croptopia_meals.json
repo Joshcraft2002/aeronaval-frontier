@@ -10,7 +10,7 @@
         "min": 1,
         "max": 64
       },
-      "unitWorth": 12000
+      "unitWorth": 8000
     },
     "croptopia_beef_wellington": {
       "type": "item",
@@ -19,7 +19,7 @@
         "min": 1,
         "max": 64
       },
-      "unitWorth": 8000
+      "unitWorth": 5000
     },
     "croptopia_stuffed_poblanos": {
       "type": "item",
@@ -28,7 +28,7 @@
         "min": 1,
         "max": 64
       },
-      "unitWorth": 3000
+      "unitWorth": 2000
     },
     "croptopia_croque_madame": {
       "type": "item",
@@ -37,7 +37,7 @@
         "min": 1,
         "max": 64
       },
-      "unitWorth": 2500
+      "unitWorth": 1600
     },
     "croptopia_croque_monsieur": {
       "type": "item",
@@ -46,7 +46,7 @@
         "min": 1,
         "max": 64
       },
-      "unitWorth": 2000
+      "unitWorth": 1300
     },
     "croptopia_tuna_sandwich": {
       "type": "item",

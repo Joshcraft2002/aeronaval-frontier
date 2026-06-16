@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "croptopia:flourable"
+    },
+    {
+      "tag": "croptopia:flourable"
+    }
+  ],
+  "result": {
+    "id": "create:wheat_flour",
+    "count": 2
+  }
+}

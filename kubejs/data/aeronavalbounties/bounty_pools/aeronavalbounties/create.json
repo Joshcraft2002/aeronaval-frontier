@@ -8,133 +8,133 @@
       "type": "item",
       "content": "create:andesite_casing",
       "amount": { "min": 1, "max": 64 },
-      "unitWorth": 200
+      "unitWorth": 132
     },
     "create_brass_casing": {
       "type": "item",
       "content": "create:brass_casing",
       "amount": { "min": 1, "max": 64 },
-      "unitWorth": 300
+      "unitWorth": 198
     },
     "create_copper_casing": {
       "type": "item",
       "content": "create:copper_casing",
       "amount": { "min": 1, "max": 64 },
-      "unitWorth": 200
+      "unitWorth": 132
     },
     "create_goggles": {
       "type": "item",
       "content": "create:goggles",
       "amount": { "min": 1, "max": 64 },
-      "unitWorth": 200
+      "unitWorth": 132
     },
     "create_railway_casing": {
       "type": "item",
       "content": "create:railway_casing",
       "amount": { "min": 1, "max": 64 },
-      "unitWorth": 400
+      "unitWorth": 264
     },
     "create_item_vault": {
       "type": "item",
       "content": "create:item_vault",
       "amount": { "min": 1, "max": 64 },
-      "unitWorth": 400
+      "unitWorth": 264
     },
     "create_fluid_tank": {
       "type": "item",
       "content": "create:fluid_tank",
       "amount": { "min": 1, "max": 64 },
-      "unitWorth": 400
+      "unitWorth": 264
     },
     "create_radial_chassis": {
       "type": "item",
       "content": "create:radial_chassis",
       "amount": { "min": 1, "max": 64 },
-      "unitWorth": 400
+      "unitWorth": 264
     },
     "create_secondary_linear_chassis": {
       "type": "item",
       "content": "create:secondary_linear_chassis",
       "amount": { "min": 1, "max": 64 },
-      "unitWorth": 400
+      "unitWorth": 264
     },
     "create_linear_chassis": {
       "type": "item",
       "content": "create:linear_chassis",
       "amount": { "min": 1, "max": 64 },
-      "unitWorth": 400
+      "unitWorth": 264
     },
     "create_metal_girder": {
       "type": "item",
       "content": "create:metal_girder",
       "amount": { "min": 1, "max": 64 },
-      "unitWorth": 400
+      "unitWorth": 264
     },
     "create_cardboard_block": {
       "type": "item",
       "content": "create:cardboard_block",
       "amount": { "min": 1, "max": 128 },
-      "unitWorth": 600
+      "unitWorth": 396
     },
     "create_crushing_wheel": {
       "type": "item",
       "content": "create:crushing_wheel",
       "amount": { "min": 1, "max": 32 },
-      "unitWorth": 1000
+      "unitWorth": 600
     },
     "create_mechanical_crafter": {
       "type": "item",
       "content": "create:mechanical_crafter",
       "amount": { "min": 1, "max": 32 },
-      "unitWorth": 1000
+      "unitWorth": 600
     },
     "create_mechanical_drill": {
       "type": "item",
       "content": "create:mechanical_drill",
       "amount": { "min": 1, "max": 32 },
-      "unitWorth": 800
+      "unitWorth": 528
     },
     "create_mechanical_saw": {
       "type": "item",
       "content": "create:mechanical_saw",
       "amount": { "min": 1, "max": 32 },
-      "unitWorth": 800
+      "unitWorth": 528
     },
     "create_mechanical_harvester": {
       "type": "item",
       "content": "create:mechanical_harvester",
       "amount": { "min": 1, "max": 32 },
-      "unitWorth": 800
+      "unitWorth": 528
     },
     "create_display_board": {
       "type": "item",
-      "content": "create:mechanical_harvester",
+      "content": "create:display_board",
       "amount": { "min": 1, "max": 32 },
-      "unitWorth": 640
+      "unitWorth": 420
     },
     "create_deployer": {
       "type": "item",
       "content": "create:deployer",
       "amount": { "min": 1, "max": 32 },
-      "unitWorth": 1000
+      "unitWorth": 6000
     },
     "create_rotation_speed_controller": {
       "type": "item",
       "content": "create:rotation_speed_controller",
       "amount": { "min": 1, "max": 16 },
-      "unitWorth": 10000
+      "unitWorth": 6000
     },
     "create_mechanical_arm": {
       "type": "item",
       "content": "create:mechanical_arm",
       "amount": { "min": 1, "max": 16 },
-      "unitWorth": 10000
+      "unitWorth": 6000
     },
     "create_tweaked_controllers_tweaked_controller": {
       "type": "item",
       "content": "create_tweaked_controllers:tweaked_controller",
       "amount": { "min": 1, "max": 16 },
-      "unitWorth": 10000
+      "unitWorth": 6000
     }
   }
 }

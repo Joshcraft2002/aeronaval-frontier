@@ -10,7 +10,7 @@
         "min": 1,
         "max": 16
       },
-      "unitWorth": 4000
+      "unitWorth": 2600
     },
     "extra_gauges_logic_gauge": {
       "type": "item",
@@ -19,7 +19,7 @@
         "min": 1,
         "max": 16
       },
-      "unitWorth": 4000
+      "unitWorth": 2600
     },
     "extra_gauges_integer_gauge": {
       "type": "item",
@@ -28,7 +28,7 @@
         "min": 1,
         "max": 16
       },
-      "unitWorth": 4000
+      "unitWorth": 2600
     },
     "extra_gauges_comparator_gauge": {
       "type": "item",
@@ -37,7 +37,7 @@
         "min": 1,
         "max": 16
       },
-      "unitWorth": 4000
+      "unitWorth": 2600
     },
     "extra_gauges_counter_gauge": {
       "type": "item",
@@ -46,7 +46,7 @@
         "min": 1,
         "max": 16
       },
-      "unitWorth": 4000
+      "unitWorth": 2600
     },
     "extra_gauges_passive_gauge": {
       "type": "item",
@@ -55,7 +55,7 @@
         "min": 1,
         "max": 16
       },
-      "unitWorth": 4000
+      "unitWorth": 2600
     },
     "extra_gauges_string_gauge": {
       "type": "item",
@@ -64,7 +64,7 @@
         "min": 1,
         "max": 16
       },
-      "unitWorth": 4000
+      "unitWorth": 2600
     },
     "extra_gauges_expression_gauge": {
       "type": "item",
@@ -73,7 +73,7 @@
         "min": 1,
         "max": 16
       },
-      "unitWorth": 4000
+      "unitWorth": 2600
     },
     "extra_gauges_filter_gauge": {
       "type": "item",
@@ -82,7 +82,7 @@
         "min": 1,
         "max": 16
       },
-      "unitWorth": 4000
+      "unitWorth": 2600
     }
   }
 }

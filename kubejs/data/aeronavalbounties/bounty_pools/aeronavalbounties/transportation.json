@@ -9,25 +9,25 @@
       "type": "item",
       "content": "simulated:navigation_table",
       "amount": { "min": 1, "max": 16 },
-      "unitWorth": 10000
+      "unitWorth": 6000
     },
     "tracks_suspension_key": {
       "type": "item",
       "content": "tracks:suspension_key",
       "amount": { "min": 1, "max": 16 },
-      "unitWorth": 10000
+      "unitWorth": 6000
     },
     "railways_remote_lens": {
       "type": "item",
       "content": "railways:remote_lens",
       "amount": { "min": 1, "max": 16 },
-      "unitWorth": 10000
+      "unitWorth": 6000
     },
     "railways_handcar": {
       "type": "item",
       "content": "railways:handcar",
       "amount": { "min": 1, "max": 8 },
-      "unitWorth": 16000
+      "unitWorth": 10500
     }
   }
 }

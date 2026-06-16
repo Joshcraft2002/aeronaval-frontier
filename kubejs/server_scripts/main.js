@@ -1,20 +1,38 @@
 ServerEvents.recipes(event => {
-  // Croptopia Bottles
+  	// Croptopia Bottles
 	event.remove([
 		{ output: 'croptopia:water_bottle' },
 		{ output: 'croptopia:milk_bottle' }
 	])
 
-	//Create Deco
+	// Create Deco
 	event.remove([
 		{ output: 'createdeco:gold_coin' },
-		{ output: 'createdeco:gold_coinstack' }, // used for curiosity token
+		{ output: 'createdeco:gold_coinstack' }, // used for chunkloader token
 		{ output: 'createdeco:netherite_coin' },
 		{ output: 'createdeco:brass_coin' },
 		{ output: 'createdeco:iron_coin' },
+		{ output: 'createdeco:iron_coinstack' }, // used for chunkloader token
 		{ output: 'createdeco:copper_coin' },
 		{ output: 'createdeco:industrial_iron_coin' },
 		{ output: 'createdeco:zinc_coin' },
+	])
+
+	// Wires
+	event.remove([
+		{ output: 'electroenergetics:copper_wire' },
+		{ output: 'electroenergetics:electrum_wire' },
+		{ output: 'electroenergetics:iron_wire' }
+	])
+
+	event.remove([
+		{ output: 'electroenergetics:copper_wire' },
+		{ output: 'electroenergetics:electrum_wire' },
+		{ output: 'electroenergetics:iron_wire' }
+	])
+
+	event.remove([
+		{ output: 'spartan_weaponry_unofficial:copper_bolt' }
 	])
 
 	event.shapeless(
@@ -32,9 +50,28 @@ ServerEvents.recipes(event => {
 	)
 
 	event.replaceInput(
-		{ input: 'minecraft:water_bucket' },
+		{ input: 'minecraft:water_bucket', not: [{ input: '#c:water_bottles' }, { input: '#cookingforblockheads:water' }] },
 		'minecraft:water_bucket',
 		Ingredient.of('#c:buckets/water')
+	)
+
+	// Flour & Dough
+	event.replaceInput(
+		{ input: 'croptopia:flour' },
+		'croptopia:flour',
+		Ingredient.of('create:wheat_flour')
+	)
+
+	event.remove([
+		{ output: 'croptopia:dough' },
+		{ output: 'create:dough' },
+		{ input: 'create:dough' }
+	])
+
+	event.replaceInput(
+		{ input: 'croptopia:dough' },
+		'croptopia:dough',
+		Ingredient.of('farmersdelight:wheat_dough')
 	)
 
 	event.replaceInput(
@@ -61,19 +98,4 @@ ServerEvents.recipes(event => {
 		'minecraft:diamond',
 		Ingredient.of('numismatics:cog')
 	)
-})
-
-ServerEvents.tags('item', event => {
-  // Croptopia milk
-  event.add('c:drinks/milk', 'croptopia:soy_milk')
-  event.add('c:drinks/milk', 'croptopia:milk_bottle')
-  
-  // Spartan Scythes as Quark Harvesters
-  event.add('minecraft:hoes', '#spartan_weaponry_unofficial:scythe')
-  event.add('quark:big_harvesting_hoes', 'spartan_weaponry_unofficial:diamond_scythe')
-  event.add('quark:big_harvesting_hoes', 'spartan_weaponry_unofficial:netherite_scythe')
-
-  // Track Mount Fix
-  event.add('minecraft:mineable/axe', 'tracks:track_mount')
-  event.add('minecraft:mineable/pickaxe', 'tracks:track_mount')
 })

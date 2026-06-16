@@ -1,3 +1,6 @@
 {
-    "item.createdeco.gold_coin": "Curiosity Token"
+    "item.createdeco.gold_coin": "Chunkloader Token - Gold",
+    "item.createdeco.gold_coin.tooltip": "Provided by an administrator to obtain stronger chunkloaders",
+    "item.createdeco.iron_coin": "Chunkloader Token - Iron",
+    "item.createdeco.iron_coin.tooltip": "Provided by an administrator to obtain simple chunkloaders"
 }

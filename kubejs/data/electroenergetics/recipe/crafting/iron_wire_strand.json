@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "w": {
+      "tag": "c:wires/iron"
+    }
+  },
+  "pattern": [
+    "ww",
+    "ww"
+  ],
+  "result": {
+    "count": 1,
+    "id": "electroenergetics:iron_wire_strand"
+  }
+}

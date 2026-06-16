@@ -1,3 +1,9 @@
 {
-    "item.aeronavalfrontier.curiosity_token.tooltip": "Provided by an administrator to obtain exclusive items"
+  "item.kubejs.kinetic_battery_reward_1": "Energy Sale Return Crate",
+  "item.kubejs.kinetic_battery_reward_2": "Energy Sale Return Crate",
+  "item.kubejs.kinetic_battery_reward_3": "Energy Sale Return Crate",
+  "item.aeronavalfrontier.kinetic_battery_reward": "Energy Sale Return Crate",
+  "item.aeronavalfrontier.kinetic_battery_reward.tooltip.value": "Sell Price: %d¤",
+  "item.aeronavalfrontier.kinetic_battery_reward.tooltip.open": "Right-click to open",
+  "item.aeronavalfrontier.kinetic_battery_reward.tooltip.desc": "Returns empty batteries with attached payment."
 }

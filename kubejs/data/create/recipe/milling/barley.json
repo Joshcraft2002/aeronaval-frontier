@@ -1,0 +1,22 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "croptopia:barley"
+    }
+  ],
+  "processing_time": 150,
+  "results": [
+    {
+      "id": "create:wheat_flour"
+    },
+    {
+      "chance": 0.1,
+      "id": "create:wheat_flour"
+    },
+    {
+      "chance": 0.1,
+      "id": "croptopia:barley_seed"
+    }
+  ]
+}

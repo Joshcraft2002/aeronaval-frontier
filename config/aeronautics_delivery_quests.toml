@@ -67,11 +67,3 @@
 	announceFail = false
 	#Whether to broadcast to the server when quest generation fails to locate villages.
 	announceGenFail = false
-
-[rewards]
-	#Loot table for Light quests. Format: namespace:item_id:count
-	lightRewards = ["numismatics:spur:4"]
-	#Loot table for Medium quests. Format: namespace:item_id:count
-	mediumRewards = ["numismatics:spur:6"]
-	#Loot table for Heavy quests. Format: namespace:item_id:count
-	heavyRewards = ["numismatics:spur:8"]

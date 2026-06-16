@@ -1,14 +1,15 @@
 {
-  "roll": { "type": "constant", "count": 20 },
-  "pool": [
-    { "value": "logs", "weight": 7.0 },
-    { "value": "stone", "weight": 10.0 },
-    { "value": "soil", "weight": 3.0 },
-    { "value": "minerals", "weight": 3.0 },
-    { "value": "biofuel", "weight": 0.5 },
-    { "value": "consumables", "weight": 4.0 },
-    { "value": "mechanisms", "weight": 3.0 },
-    { "value": "battery_buy", "weight": 1.0 },
-    { "value": "battery_sell", "weight": 1.0 }
-  ]
+    "roll": { "type": "constant", "count": 20 },
+    "pool": [
+        { "value": "logs", "weight": 7.0 },
+        { "value": "stone", "weight": 10.0 },
+        { "value": "soil", "weight": 3.0 },
+        { "value": "minerals", "weight": 3.0 },
+        { "value": "high_valuables", "weight": 0.2 },
+        { "value": "biofuel", "weight": 0.5 },
+        { "value": "consumables", "weight": 3.0 },
+        { "value": "mechanisms", "weight": 1.2 },
+        { "value": "battery_sell", "weight": 1.0 }
+                                            ]
+                                            
 }

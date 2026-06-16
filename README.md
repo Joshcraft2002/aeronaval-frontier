@@ -9,9 +9,10 @@ Datapacks included that aren't mine:
 - [True Ending - Ender Dragon Overhaul](https://modrinth.com/datapack/true-ending) (technically the datapack version)
 
 ## Known Issues
-- Delivery Quest Table is the example block from KubeJS
-    - the model currently has an issue where you could see through it, so this is a temporary fix
 - Loyalty tridents disappear on hitting sublevels
     - an issue on Create:Simulated's part
+- Display Collector ponder having placeholder text
+    - an issue on Create:Extra Gauges' part
+    - may consider adding own description if not addressed
 - Similar inputs and/or outputs between mods are not interchangeable
     - further unification of items and recipes will come in the future

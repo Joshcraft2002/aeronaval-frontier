@@ -5,28 +5,24 @@
   },
   "input1": {
     "filter": "create_connected:charged_kinetic_battery",
-    "count": { "type": "constant", "count": 1 }
+    "count": { "type": "constant", "count": 8 }
   },
   "output": [
     {
-      "item": "numismatics:spur",
-      "count": { "type": "constant", "count": 8 },
-      "weight": 2.0
+      "item": "kubejs:kinetic_battery_reward_1",
+      "count": { "type": "constant", "count": 1 },
+      "weight": 0.35
     },
     {
-      "item": "numismatics:spur",
-      "count": { "type": "constant", "count": 9 },
-      "weight": 0.5
+      "item": "kubejs:kinetic_battery_reward_2",
+      "count": { "type": "constant", "count": 1 },
+      "weight": 0.6
     },
     {
-      "item": "numismatics:spur",
-      "count": { "type": "constant", "count": 10 },
-      "weight": 0.3
-    },
-    {
-      "item": "numismatics:spur",
-      "count": { "type": "constant", "count": 11 },
-      "weight": 0.15
+      "item": "kubejs:kinetic_battery_reward_3",
+      "count": { "type": "constant", "count": 1 },
+      "weight": 0.05
     }
+    
   ]
 }

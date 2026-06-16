@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "bottom": "tide:block/wooden_crate_bottom",
+    "side": "tide:block/wooden_crate",
+    "top": "aeronavalfrontier:item/kinetic_battery_reward_top"
+  }
+}

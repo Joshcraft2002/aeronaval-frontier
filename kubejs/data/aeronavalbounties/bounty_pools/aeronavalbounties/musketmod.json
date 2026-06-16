@@ -7,19 +7,19 @@
       "type": "item",
       "content": "musketmod:musket",
       "amount": { "min": 1, "max": 4 },
-      "unitWorth": 800
+      "unitWorth": 520
     },
     "musketmod_blunderbuss": {
       "type": "item",
       "content": "musketmod:blunderbuss",
       "amount": { "min": 1, "max": 4 },
-      "unitWorth": 1000
+      "unitWorth": 600
     },
     "musketmod_pistol": {
       "type": "item",
       "content": "musketmod:pistol",
       "amount": { "min": 1, "max": 4 },
-      "unitWorth": 800
+      "unitWorth": 520
     },
     "musketmod_paper_cartridge": {
       "type": "item",

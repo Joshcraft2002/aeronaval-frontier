@@ -10,7 +10,7 @@
         "min": 1,
         "max": 64
       },
-      "unitWorth": 8000
+      "unitWorth": 7000
     },
     "croptopia_fruit_cake": {
       "type": "item",
@@ -19,7 +19,7 @@
         "min": 1,
         "max": 64
       },
-      "unitWorth": 2500
+      "unitWorth": 1600
     },
     "croptopia_banana_cream_pie": {
       "type": "item",
@@ -28,7 +28,7 @@
         "min": 1,
         "max": 64
       },
-      "unitWorth": 2500
+      "unitWorth": 1600
     },
     "croptopia_apple_pie": {
       "type": "item",
@@ -37,7 +37,7 @@
         "min": 1,
         "max": 64
       },
-      "unitWorth": 2500
+      "unitWorth": 1600
     },
     "croptopia_cherry_pie": {
       "type": "item",
@@ -46,7 +46,7 @@
         "min": 1,
         "max": 64
       },
-      "unitWorth": 2500
+      "unitWorth": 1600
     },
     "croptopia_pecan_pie": {
       "type": "item",
@@ -55,7 +55,7 @@
         "min": 1,
         "max": 64
       },
-      "unitWorth": 3000
+      "unitWorth": 2000
     },
     "croptopia_rhubarb_pie": {
       "type": "item",
@@ -64,7 +64,7 @@
         "min": 1,
         "max": 64
       },
-      "unitWorth": 2500
+      "unitWorth": 1600
     },
     "croptopia_scones": {
       "type": "item",
@@ -73,7 +73,7 @@
         "min": 1,
         "max": 64
       },
-      "unitWorth": 1800
+      "unitWorth": 1200
     },
     "croptopia_pumpkin_bar": {
       "type": "item",
@@ -82,7 +82,7 @@
         "min": 1,
         "max": 64
       },
-      "unitWorth": 2500
+      "unitWorth": 1600
     },
     "croptopia_brownies": {
       "type": "item",
@@ -91,7 +91,7 @@
         "min": 1,
         "max": 64
       },
-      "unitWorth": 1800
+      "unitWorth": 1200
     },
     "croptopia_treacle_tart": {
       "type": "item",
@@ -100,7 +100,7 @@
         "min": 1,
         "max": 64
       },
-      "unitWorth": 1000
+      "unitWorth": 600
     },
     "croptopia_macaron": {
       "type": "item",
@@ -109,7 +109,7 @@
         "min": 1,
         "max": 64
       },
-      "unitWorth": 800
+      "unitWorth": 500
     },
     "croptopia_doughnut": {
       "type": "item",
@@ -118,7 +118,7 @@
         "min": 1,
         "max": 64
       },
-      "unitWorth": 200
+      "unitWorth": 130
     },
     "croptopia_snicker_doodle": {
       "type": "item",
@@ -127,7 +127,7 @@
         "min": 1,
         "max": 64
       },
-      "unitWorth": 100
+      "unitWorth": 60
     }
   }
 }

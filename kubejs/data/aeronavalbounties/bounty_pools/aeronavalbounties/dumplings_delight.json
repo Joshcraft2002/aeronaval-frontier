@@ -10,7 +10,7 @@
         "min": 1,
         "max": 8
       },
-      "unitWorth": 20000
+      "unitWorth": 14000
     },
     "dumplings_delight_beef_tomato_boiled_dumpling": {
       "type": "item",
@@ -19,7 +19,7 @@
         "min": 1,
         "max": 64
       },
-      "unitWorth": 1000
+      "unitWorth": 600
     },
     "dumplings_delight_calamari_boiled_dumpling": {
       "type": "item",
@@ -28,7 +28,7 @@
         "min": 1,
         "max": 64
       },
-      "unitWorth": 2000
+      "unitWorth": 1300
     },
     "dumplings_delight_chicken_mushroom_boiled_dumpling": {
       "type": "item",
@@ -37,7 +37,7 @@
         "min": 1,
         "max": 64
       },
-      "unitWorth": 1000
+      "unitWorth": 600
     },
     "dumplings_delight_cod_boiled_dumpling": {
       "type": "item",
@@ -46,7 +46,7 @@
         "min": 1,
         "max": 64
       },
-      "unitWorth": 2000
+      "unitWorth": 1300
     },
     "dumplings_delight_dandelion_leaf_boiled_dumpling": {
       "type": "item",
@@ -55,7 +55,7 @@
         "min": 1,
         "max": 64
       },
-      "unitWorth": 1000
+      "unitWorth": 600
     },
     "dumplings_delight_eggplant_egg_boiled_dumpling": {
       "type": "item",
@@ -64,7 +64,7 @@
         "min": 1,
         "max": 64
       },
-      "unitWorth": 1000
+      "unitWorth": 600
     },
     "dumplings_delight_fungus_boiled_dumpling": {
       "type": "item",
@@ -73,7 +73,7 @@
         "min": 1,
         "max": 64
       },
-      "unitWorth": 1000
+      "unitWorth": 600
     },
     "dumplings_delight_garlic_chive_egg_boiled_dumpling": {
       "type": "item",
@@ -82,7 +82,7 @@
         "min": 1,
         "max": 64
       },
-      "unitWorth": 1000
+      "unitWorth": 600
     },
     "dumplings_delight_mushroom_boiled_dumpling": {
       "type": "item",
@@ -91,7 +91,7 @@
         "min": 1,
         "max": 64
       },
-      "unitWorth": 1000
+      "unitWorth": 600
     },
     "dumplings_delight_mutton_boiled_dumpling": {
       "type": "item",
@@ -100,7 +100,7 @@
         "min": 1,
         "max": 64
       },
-      "unitWorth": 1000
+      "unitWorth": 600
     },
     "dumplings_delight_pork_cabbage_boiled_dumpling": {
       "type": "item",
@@ -109,7 +109,7 @@
         "min": 1,
         "max": 64
       },
-      "unitWorth": 1000
+      "unitWorth": 600
     },
     "dumplings_delight_pork_celery_boiled_dumpling": {
       "type": "item",
@@ -118,7 +118,7 @@
         "min": 1,
         "max": 64
       },
-      "unitWorth": 1000
+      "unitWorth": 600
     },
     "dumplings_delight_pork_fennel_boiled_dumpling": {
       "type": "item",
@@ -127,7 +127,7 @@
         "min": 1,
         "max": 64
       },
-      "unitWorth": 1000
+      "unitWorth": 600
     },
     "dumplings_delight_pork_kelp_boiled_dumpling": {
       "type": "item",
@@ -136,7 +136,7 @@
         "min": 1,
         "max": 64
       },
-      "unitWorth": 1000
+      "unitWorth": 600
     },
     "dumplings_delight_pork_potato_boiled_dumpling": {
       "type": "item",
@@ -145,7 +145,7 @@
         "min": 1,
         "max": 64
       },
-      "unitWorth": 1000
+      "unitWorth": 600
     },
     "dumplings_delight_pufferfish_boiled_dumpling": {
       "type": "item",
@@ -154,7 +154,7 @@
         "min": 1,
         "max": 64
       },
-      "unitWorth": 3000
+      "unitWorth": 2000
     },
     "dumplings_delight_rabbit_meat_boiled_dumpling": {
       "type": "item",
@@ -163,7 +163,7 @@
         "min": 1,
         "max": 64
       },
-      "unitWorth": 1500
+      "unitWorth": 1000
     },
     "dumplings_delight_salmon_boiled_dumpling": {
       "type": "item",
@@ -172,7 +172,7 @@
         "min": 1,
         "max": 64
       },
-      "unitWorth": 2000
+      "unitWorth": 1300
     },
     "dumplings_delight_tomato_egg_boiled_dumpling": {
       "type": "item",
@@ -181,7 +181,7 @@
         "min": 1,
         "max": 64
       },
-      "unitWorth": 1000
+      "unitWorth": 600
     }
   }
 }

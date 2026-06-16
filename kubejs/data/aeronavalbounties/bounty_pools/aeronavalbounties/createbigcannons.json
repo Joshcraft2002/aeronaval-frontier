@@ -7,7 +7,7 @@
       "type": "item",
       "content": "createbigcannons:powder_charge",
       "amount": { "min": 1, "max": 128 },
-      "unitWorth": 400
+      "unitWorth": 264
     },
     "createbigcannons_flak_autocannon_round": {
       "type": "item",
@@ -19,115 +19,115 @@
       "type": "item",
       "content": "createbigcannons:solid_shot",
       "amount": { "min": 1, "max": 128 },
-      "unitWorth": 400
+      "unitWorth": 264
     },
     "createbigcannons_ap_shot": {
       "type": "item",
       "content": "createbigcannons:ap_shot",
       "amount": { "min": 1, "max": 128 },
-      "unitWorth": 400
+      "unitWorth": 264
     },
     "createbigcannons_he_shell": {
       "type": "item",
       "content": "createbigcannons:he_shell",
       "amount": { "min": 1, "max": 128 },
-      "unitWorth": 1000
+      "unitWorth": 600
     },
     "createbigcannons_ap_shell": {
       "type": "item",
       "content": "createbigcannons:ap_shell",
       "amount": { "min": 1, "max": 128 },
-      "unitWorth": 1000
+      "unitWorth": 600
     },
     "createbigcannons_fluid_shell": {
       "type": "item",
       "content": "createbigcannons:fluid_shell",
       "amount": { "min": 1, "max": 128 },
-      "unitWorth": 800
+      "unitWorth": 528
     },
     "createbigcannons_machine_gun_round": {
       "type": "item",
       "content": "createbigcannons:machine_gun_round",
       "amount": { "min": 1, "max": 128 },
-      "unitWorth": 500
+      "unitWorth": 330
     },
     "createbigcannons_autocannon_cartridge": {
       "type": "item",
       "content": "createbigcannons:autocannon_cartridge",
       "amount": { "min": 1, "max": 128 },
-      "unitWorth": 1000
+      "unitWorth": 600
     },
     "createbigcannons_cannon_welder": {
       "type": "item",
       "content": "createbigcannons:cannon_welder",
       "amount": { "min": 1, "max": 4 },
-      "unitWorth": 6000
+      "unitWorth": 4000
     },
     "createbigcannons_nitropowder": {
       "type": "item",
       "content": "createbigcannons:nitropowder",
       "amount": { "min": 1, "max": 64 },
-      "unitWorth": 12000
+      "unitWorth": 8000
     },
     "createbigcannons_steel_autocannon_breech": {
       "type": "item",
       "content": "createbigcannons:steel_autocannon_breech",
       "amount": { "min": 1, "max": 32 },
-      "unitWorth": 8400
+      "unitWorth": 5500
     },
     "createbigcannons_bronze_autocannon_breech": {
       "type": "item",
       "content": "createbigcannons:bronze_autocannon_breech",
       "amount": { "min": 1, "max": 32 },
-      "unitWorth": 8400
+      "unitWorth": 5500
     },
     "createbigcannons_cast_iron_autocannon_breech": {
       "type": "item",
       "content": "createbigcannons:cast_iron_autocannon_breech",
       "amount": { "min": 1, "max": 32 },
-      "unitWorth": 8400
+      "unitWorth": 5500
     },
     "createbigcannons_steel_autocannon_recoil_spring": {
       "type": "item",
       "content": "createbigcannons:steel_autocannon_recoil_spring",
       "amount": { "min": 1, "max": 32 },
-      "unitWorth": 8400
+      "unitWorth": 5500
     },
     "createbigcannons_bronze_autocannon_recoil_spring": {
       "type": "item",
       "content": "createbigcannons:bronze_autocannon_recoil_spring",
       "amount": { "min": 1, "max": 32 },
-      "unitWorth": 8400
+      "unitWorth": 5500
     },
     "createbigcannons_cast_iron_autocannon_recoil_spring": {
       "type": "item",
       "content": "createbigcannons:cast_iron_autocannon_recoil_spring",
       "amount": { "min": 1, "max": 32 },
-      "unitWorth": 8400
+      "unitWorth": 5500
     },
     "createbigcannons_steel_autocannon_barrel": {
       "type": "item",
       "content": "createbigcannons:steel_autocannon_barrel",
       "amount": { "min": 1, "max": 64 },
-      "unitWorth": 8000
+      "unitWorth": 5200
     },
     "createbigcannons_bronze_autocannon_barrel": {
       "type": "item",
       "content": "createbigcannons:bronze_autocannon_barrel",
       "amount": { "min": 1, "max": 64 },
-      "unitWorth": 8000
+      "unitWorth": 5000
     },
     "createbigcannons_cast_iron_autocannon_barrel": {
       "type": "item",
       "content": "createbigcannons:cast_iron_autocannon_barrel",
       "amount": { "min": 1, "max": 64 },
-      "unitWorth": 8000
+      "unitWorth": 5000
     },
     "createbigcannons_autocannon_ammo_container": {
       "type": "item",
       "content": "createbigcannons:autocannon_ammo_container",
       "amount": { "min": 1, "max": 64 },
-      "unitWorth": 800
+      "unitWorth": 528
     }
   }
 }

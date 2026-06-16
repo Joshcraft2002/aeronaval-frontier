@@ -568,11 +568,11 @@
 	#Disables Recipes for all new Arrows.|禁用所有新增箭矢的配方。
 	disable_new_arrow_recipes = true
 	#Disables Recipes for both Copper Arrows and Copper Bolts.|禁用铜箭与铜弩箭的配方。
-	disable_copper_ammo_recipes = false
+	disable_copper_ammo_recipes = true
 	#Disables Recipes for both Diamond Arrows and Diamond Bolts.|禁用钻石箭与钻石弩箭的配方。
-	disable_diamond_ammo_recipes = false
+	disable_diamond_ammo_recipes = true
 	#Disables Recipes for both Netherite Arrows and Netherite Bolts.|禁用下界合金箭与下界合金弩箭的配方。
-	disable_netherite_ammo_recipes = false
+	disable_netherite_ammo_recipes = true
 	#Disables all variants of the Arrow Quiver and the Bolt Quiver in this mod|禁用本模组所有箭袋与弩箭袋的配方。
 	disable_quiver_recipes = true
 	#Bows in this blacklist will not get Arrows pulled out of the Arrow Quiver. Use the registry ID of the bow to add to this. e.g. "minecraft:bow"|黑名单中的弓不会从箭袋中取箭。使用弓的注册 ID 添加，例如 "minecraft:bow"

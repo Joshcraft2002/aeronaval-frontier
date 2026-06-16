@@ -1,0 +1,64 @@
+{
+	"item.createaddition.capacitor": "FE Capacitor",
+
+	"item.createaddition.copper_spool": "Copper FE Wire Spool",
+	"item.createaddition.copper_spool.tooltip.summary": "Used to store wires for _Forge Energy_ connections.",
+
+	"item.createaddition.festive_spool": "Copper FE WireSpool with Festive Lights",
+	"item.createaddition.festive_spool.tooltip.summary": "Used to store wires for _Forge Energy_ connections.",
+
+	"item.createaddition.gold_spool": "Gold FE Wire Spool",
+	"item.createaddition.gold_spool.tooltip.summary": "Used to store wires for _Forge Energy_ connections.",
+
+	"item.createaddition.electrum_spool": "Electrum FE Wire Spool",
+	"item.createaddition.electrum_spool.tooltip.summary": "Used to store wires for _Forge Energy_ connections.",
+
+	"item.createaddition.spool": "Empty FE Wire Spool",
+	"item.createaddition.spool.nbt": "Stores connection location.",
+	"item.createaddition.spool.tooltip.summary": "Used to store wires for _Forge Energy_ connections.",
+
+	"block.createaddition.electric_motor": "FE Motor",
+
+	"block.createaddition.alternator": "FE Alternator",
+
+	"block.createaddition.creative_energy": "Creative FE Generator",
+	"block.createaddition.creative_energy.tooltip.summary": "Generates an infinite supply of _⚡_.",
+
+	"block.createaddition.accumulator": "FE Accumulator",
+	"block.createaddition.accumulator.tooltip.summary": "Accumulates Forge Energy charge. _Deprecated and subject to removal from future releases_.",
+
+	"block.createaddition.modular_accumulator": "FE Modular Accumulator",
+
+	"block.createaddition.portable_energy_interface": "Portable Energy Interface",
+
+	"block.createaddition.connector": "Small FE Connector",
+	"block.createaddition.connector.tooltip.behaviour2": "While holding a _Copper FE Wire Spool_, _Gold FE Wire Spool_, or _Electrum FE Wire Spool_ to create a _wire link_ with up to 4 other connectors.",
+
+	"block.createaddition.small_light_connector": "Small FE Connector With Light",
+	"block.createaddition.small_light_connector.tooltip.behaviour2": "While holding a _Copper FE Wire Spool_, _Gold FE Wire Spool_, or _Electrum FE Wire Spool_ to create a _wire link_ with up to 4 other connectors.",
+
+	"block.createaddition.large_connector": "Large FE Connector",
+	"block.createaddition.large_connector.tooltip.behaviour2": "While holding a _Gold FE Spool_ or _Electrum FE Spool_ to create a _wire link_ with up to 6 other connectors.",
+
+	"createaddition.ponder.tag.electric": "Forge Energy Appliances",
+	"createaddition.ponder.tag.electric.description": "Components which use Forge Energy",
+
+	"createaddition.ponder.electric_motor.header": "Generating Rotational Force using FE Motors",
+	"createaddition.ponder.electric_motor.text_1": "FE Motors are a compact and configurable source of Rotational Force",
+	"createaddition.ponder.electric_motor.text_3": "The FE Motor requires a source of energy",
+	"createaddition.ponder.electric_motor.text_4": "The motor's energy consumption is determined by the set RPM",
+
+	"createaddition.ponder.alternator.header": "Generating Forge Energy using a FE Alternator",
+	"createaddition.ponder.alternator.text_1": "The FE Alternator requires at least 32 RPM to operate",
+	"createaddition.ponder.alternator.text_2": "It generates Forge Energy from rotational force",
+
+	"createaddition.ponder.cc_electric_motor.header": "Using ComputerCraft to control a FE Motor",
+	"createaddition.ponder.cc_electric_motor.text_1": "The FE Motor can be controlled using ComputerCraft",
+
+	"createaddition.ponder.modular_accumulator.header": "The Multi-block FE Accumulator",
+	"createaddition.ponder.modular_accumulator.text_1": "The FE Accumulator is a multi-block structure",
+	"createaddition.ponder.modular_accumulator.text_2": "It can store large amounts of forge energy",
+
+	"createaddition.ponder.pei_transfer.text_2": "This component can interact with FE Accumulators without the need to stop the contraption.",
+	"createaddition.ponder.pei_transfer.text_5": "While engaged, the stationary interface will represent ALL FE Accumulators on the contraption"
+}

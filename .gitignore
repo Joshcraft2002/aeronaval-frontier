@@ -16,16 +16,22 @@ config/*
 !config/bountiful
 config/bountiful/*
 !config/bountiful/bountiful.json
+!config/c2me.toml
 !config/create_aeronautics_throwable_rope_connector-common.toml
 !config/create_connected-common.toml
 !config/create-server.toml
 !config/create-stuff-additions.toml
 !config/dailyshop
+!config/exposure-server.toml
+!config/incontrol
+config/incontrol/*
+!config/incontrol/spawn.json
 !config/molten_vents-common.toml
 !config/musketmod.txt
 !config/quark-common.toml
 !config/solonion.json
 !config/spartan_weaponry_unofficial-common.toml
+!config/supplementaries-common.toml
 
 !kubejs
 kubejs/*
