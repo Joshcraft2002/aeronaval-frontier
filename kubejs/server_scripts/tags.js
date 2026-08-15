@@ -1,5 +1,8 @@
 
 ServerEvents.tags('item', event => {
+  event.remove('c:foods/dough/wheat', 'create:dough')
+  event.remove('c:foods/dough', 'create:dough')
+
   // Croptopia milk
   event.add('c:drinks/milk', 'croptopia:soy_milk')
   event.add('c:drinks/milk', 'croptopia:milk_bottle')

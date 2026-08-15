@@ -1,4 +1,9 @@
 # 3.0
+- Reverted exposure frame size to default
+- More dough unification fixes
+- Disabled recipes for converting minecart contraptions back to their base minecarts
+
+# 3.0
 Manual Installs need to update Neoforge to 21.1.233 or later
 
 If you want to use shaders, install [Iris](https://modrinth.com/mod/iris). It was not included in this version as without shaders, Create: Simulated sub-levels look off.

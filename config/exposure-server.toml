@@ -45,7 +45,7 @@
 	#Default size of an exposure image. High values take more disk space and can cause lag. Default: 320
 	# Default: 320
 	# Range: 1 ~ 2048
-	default_frame_size = 240
+	default_frame_size = 320
 	#Interplanar Projector can load images from URL or file on client's PC. Default: true
 	projecting_enabled = false
 	#Time limit in ticks for projecting.

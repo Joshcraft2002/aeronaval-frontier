@@ -62,17 +62,17 @@ ServerEvents.recipes(event => {
 		Ingredient.of('create:wheat_flour')
 	)
 
-	event.remove([
-		{ output: 'croptopia:dough' },
-		{ output: 'create:dough' },
-		{ input: 'create:dough' }
-	])
-
 	event.replaceInput(
 		{ input: 'croptopia:dough' },
 		'croptopia:dough',
 		Ingredient.of('farmersdelight:wheat_dough')
 	)
+
+	event.remove([
+		{ output: 'croptopia:dough' },
+		{ output: 'create:dough' },
+		{ input: 'create:dough' }
+	])
 
 	event.replaceInput(
 		{ input: '#c:milks', not: [{ output: 'croptopia:butter' }, { output: 'croptopia:cheese' }] },
