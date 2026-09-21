@@ -1,0 +1,34 @@
+{
+  "type": "create:mechanical_crafting",
+  "accept_mirrored": true,
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "create:brass_sheet"
+    },
+    "S": {
+      "item": "minecraft:flint_and_steel"
+    },
+    "E": {
+      "item": "simulated:engine_assembly"
+    },
+    "P": {
+      "item": "createdieselgenerators:engine_piston"
+    },
+    "F": {
+      "tag": "c:create/flywheels"
+    },
+    "I": {
+      "item": "createdeco:industrial_iron_ingot"
+    }
+  },
+  "pattern": [
+    "PPBPP",
+    "BSEFB",
+    " IBI "
+  ],
+  "result": {
+    "count": 1,
+    "id": "createdieselgenerators:diesel_engine"
+  }
+}

@@ -2,8 +2,22 @@
   "item.kubejs.kinetic_battery_reward_1": "Energy Sale Return Crate",
   "item.kubejs.kinetic_battery_reward_2": "Energy Sale Return Crate",
   "item.kubejs.kinetic_battery_reward_3": "Energy Sale Return Crate",
+  "item.kubejs.spur_fragment": "Spur Fragment",
+  "item.kubejs.elytra_fragment": "Elytra Fragment",
+  "item.kubejs.incomplete_gyroscope": "Incomplete Gyroscope",
+
   "item.aeronavalfrontier.kinetic_battery_reward": "Energy Sale Return Crate",
   "item.aeronavalfrontier.kinetic_battery_reward.tooltip.value": "Sell Price: %d¤",
   "item.aeronavalfrontier.kinetic_battery_reward.tooltip.open": "Right-click to open",
-  "item.aeronavalfrontier.kinetic_battery_reward.tooltip.desc": "Returns empty batteries with attached payment."
+  "item.aeronavalfrontier.kinetic_battery_reward.tooltip.desc": "(Currently unobtainable) Returns empty batteries with attached payment.",
+
+  "item.minecraft.elytra.tooltip": "Too flimsy to work as actual player wings.",
+  "item.alexsmobs.tarantula_hawk_elytra.tooltip": "Somewhat sturdier than normal elytra, but not any better for flight.",
+  "item.create.dough.tooltip": "Unusable from having sat for a very, very long time.",
+
+  "item.aeronavalfrontier.spur_fragment.info": "An informal way to split the value of a spur. As such, it is not accepted at Depositors, Vendors, or Salepoints, and cannot be stored in a bank account.",
+  "item.vista.crystalline.info": "Drops from Elder Guardians.",
+  "item.create.dough.info": "Can be found as loot across the frontier. Has no use.",
+
+  "block.aeronautics_delivery_quests.delivery_quests_table.tooltip": "Provides delivery contracts that pay in spurs."
 }

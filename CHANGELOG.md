@@ -1,4 +1,114 @@
-# 3.0
+# 4.0
+Manual Installs need to update Neoforge to 21.1.250 or later
+
+This is "Phase 1" of a big update, Phase 2 will arrive as 4.1
+## General Changes
+- Bounties Adjustments
+    - Disabled decree mixing (no more orders for both food and weapons on the same bounty)
+- Reintroduced interplanar projector
+- Doubled FE Modular Accumulator capacity
+- Added Spur Fragments, a way to split the value of spurs
+- Changed Biofuel recipe to require ethanol instead of sugar
+- Allowed XP to be bottled
+- United all plant/seed oils with Plant Oil from Electro Energetics being the only one
+> may break existing machines/setups that used seed oil
+- Temporarily removed kinetic battery trade
+- Added some resource packs by default:
+    - Sparkles (Incendium)
+- Fixed uncraftable cake base
+## Mod Changes
+### Added:
+- Analog Audio
+- Azimuth API
+- Better Advanced Tooltips
+- Coordboard
+- Create Aeronautics: Transmission & Linkage
+- Create: Aeroworks
+- Create: Coasters Simulated 0.1.5
+- Create: Design n' Decor
+- Create Railways Navigator
+- Create: Randomize Filters
+- Create:Tracks+
+- DragonLib
+- Elytras Disabled
+- [EMF] Entity Model Features [Fabric & Forge]
+- [ETF] Entity Texture Features - [Fabric & Forge]
+- Exposure: Detective
+- KubeJS Create
+- Lever drugster
+- Rolled Homongenous: Forked
+- Straw Statues
+- Strut Your Stuff (Struts)
+### Updated:
+- Aeronautics Delivery Quests (1.0.3 > 1.1.0)
+- AFKStatus (1.2.0 > 1.3.0)
+- AllTheLeaks (1.1.9 > 1.1.12)
+- Amendments (2.0.15 > 2.1.10)
+- Architectury API (13.0.8 > 13.0.11)
+- Balm (21.0.59 > 21.0.65)
+- Concurrent Chunk Management Engine (0.3.0+alpha.0.93 > 0.4.0+alpha.0.122)
+- Cooking for Blockheads (21.1.23 > 21.1.24)
+- Create Aeronautics (1.3.0 > 1.3.2)
+- Create Aeronautics: Compatibility (1.1.2 > 1.1.3)
+- Create Aeronautics: Throwable Rope Connector (0.3.0 > 0.4.3)
+- Create Better FPS (1.1.4 > 1.1.5)
+- Create Big Cannons (5.11.6 > 5.11.7)
+- Create: Bits 'n' Bobs (0.0.44 > 2.3.5)
+- Create: Blocks & Bogies (1.0.7 > 1.0.8)
+- Create: Central Kitchen (2.5.0 > 2.6.1)
+- Create: Colony Logistics (1.2.9 > 1.3.3)
+- Create: Connected (1.2.2 > 1.3.3)
+- Create: Copycats+ (3.0.4 > 3.0.9)
+- Create: Deployer API (0.1.2 > 0.1.3)
+- Create: Dragons Plus (1.11.2b > 1.11.9)
+- Create: Electro Energetics (1.0.1 > 1.1.1)
+- Create: Extra Gauges (2.1.2 > 2.1.3)
+- Create: Interiors (0.6.1 > 0.6.1 v2)
+- Create: Numismatics (1.0.20 > 1.1.0)
+- Create: Redstone Link GUI (1.4.1 > 1.9.2)
+- Create Stuff 'N Additions (2.1.3 > 2.1.4b)
+- CreativeCore (2.13.41 > 2.13.46)
+- Critters and Companions (2.3.4 > 2.7.0)
+- Cupboard (3.7 > 4.2)
+- e4mc (6.1.2 > 6.2.1)
+- Fairy Lights (8.0.10 > 8.0.16)
+- Farmer's Delight (1.3.2 > 1.3.4)
+- GeckoLib (4.8.4 > 4.9.3)
+- In Control! (10.2.6 > 10.3.0)
+- Integrated API (1.7.4 > 1.8.2)
+- Ixeris (4.4.4 > 4.6.7)
+- Jade (15.10.5 > 15.10.6)
+- Jade Sable Compat (1.2.0 > 1.3.0)
+- Kotlin for Forge (5.11.0 > 5.12.0)
+- KubeJS (2.101.7.2-build.368 > 2.101.7.2-build.377)
+- Lithium (0.15.3 > 0.15.4)
+- Lithostitched (1.7.9 > 1.8.0+beta6)
+- MineColonies (1.1.1319 > 1.1.1368)
+- MmmMmmMmmMmm (Target Dummy) (2.0.12 > 2.1.2)
+- ModernFix (5.27.14 > 5.27.24)
+- Moonlight Lib (3.0.17 > 3.6.5)
+- Puzzles Lib (21.1.52 > 21.1.60)
+- Quark (4.1-480 > 4.1-485)
+- Sable (2.0.2 > 2.0.5)
+- Simple Voice Chat (2.6.18 > 2.6.23)
+- Skin Layers 3D (1.11.1 > 1.11.3)
+- Sodium (0.8.12-beta.1 > 0.8.13)
+- Spartan Weaponry Unofficial (1.2.1 > 1.2.3)
+- Structurize (1.0.830 > 1.0.832)
+- Stylecolonies (1.15.54 > 1.15.59)
+- Supplementaries (3.6.8 > 3.9.9)
+- Tide 2 (2.0.3 > 2.1.1)
+- TooManyRecipeViewers (TMRV) (0.8.1 > 0.9.0)
+- Towns and Towers (1.13.9 > 1.13.11)
+- Vista (4.4.13 > 5.5.6)
+- Xaero's Minimap (26.1.0 > 26.5.0)
+- Xaero's World Map (1.41.0 > 1.46.0)
+- YUNG's API (NeoForge) [1.20.4-1.21.1 ONLY] (5.1.6 > 5.1.9)
+### Removed:
+- Create: Tracks (switched to Tracks+)
+- No Elytra Boost
+
+# 3.1
 - Reverted exposure frame size to default
 - More dough unification fixes
 - Disabled recipes for converting minecart contraptions back to their base minecarts

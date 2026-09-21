@@ -1,0 +1,12 @@
+{
+  "type": "createaddition:liquid_burning",
+  "burn_time": 4800,
+  "ingredients": [
+    {
+      "type": "fluid_stack",
+      "fluid": "electroenergetics:plant_oil",
+      "amount": 1000
+    }
+  ],
+  "results": []
+}

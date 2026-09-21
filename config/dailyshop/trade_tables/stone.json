@@ -5,7 +5,7 @@
   },
   "input1": {
     "filter": "numismatics:sprocket",
-    "count": { "type": "constant", "count": 3 }
+    "count": { "type": "constant", "count": 2 }
   },
   "output": [
     {
@@ -55,17 +55,17 @@
     },
     {
       "item": "create:asurine",
-      "count": { "type": "constant", "count": 32 },
+      "count": { "type": "constant", "count": 24 },
       "weight": 1.0
     },
     {
       "item": "create:crimsite",
-      "count": { "type": "constant", "count": 32 },
+      "count": { "type": "constant", "count": 24 },
       "weight": 1.0
     },
     {
       "item": "create:ochrum",
-      "count": { "type": "constant", "count": 32 },
+      "count": { "type": "constant", "count": 24 },
       "weight": 1.0
     },
     {
@@ -85,7 +85,7 @@
     },
     {
       "item": "create:veridium",
-      "count": { "type": "constant", "count": 48 },
+      "count": { "type": "constant", "count": 32 },
       "weight": 1.0
     },
     {

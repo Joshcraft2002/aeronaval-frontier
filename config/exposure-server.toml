@@ -47,7 +47,7 @@
 	# Range: 1 ~ 2048
 	default_frame_size = 320
 	#Interplanar Projector can load images from URL or file on client's PC. Default: true
-	projecting_enabled = false
+	projecting_enabled = true
 	#Time limit in ticks for projecting.
 	#Default: 100 (5 seconds)
 	# Default: 100

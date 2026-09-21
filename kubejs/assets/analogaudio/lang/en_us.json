@@ -1,0 +1,12 @@
+{
+    "block.analogaudio.speaker": "Live Speaker Block",
+
+    "item.analogaudio.cassette_tape": "Audio Cassette Tape",
+
+    "analogaudio.ponder.speaker_intro.header": "Using Live Speakers",
+    "analogaudio.ponder.speaker_intro.text_1": "Live Speakers play back voices from walkie talkies on its same frequency.",
+    "analogaudio.ponder.speaker_redstone.header": "Live Speakers and Redstone",
+    "analogaudio.ponder.speaker_redstone.text_1": "Live Speakers will output a redstone signal when a player is talking.",
+    "analogaudio.ponder.speaker_display_link.header": "Live Speaker Displays",
+    "analogaudio.ponder.speaker_display_link.text_1": "Display links will display the name of a player when they are talking."
+}

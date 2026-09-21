@@ -1,0 +1,20 @@
+{
+  "type": "exposure:component_transferring",
+  "source": {
+    "item": "exposure:broken_interplanar_projector"
+  },
+  "ingredients": [
+    {
+      "item": "minecraft:ender_eye"
+    },
+    {
+      "item": "deep_aether:skyjade"
+    },
+    {
+      "item": "minecraft:echo_shard"
+    }
+  ],
+  "result": {
+    "id": "exposure:interplanar_projector"
+  }
+}

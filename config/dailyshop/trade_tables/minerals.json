@@ -6,6 +6,11 @@
   },
   "output": [
     {
+      "item": "minecraft:lapis_lazuli",
+      "count": { "type": "constant", "count": 32 },
+      "weight": 1.0
+    },
+    {
       "item": "minecraft:iron_ingot",
       "count": { "type": "constant", "count": 16 },
       "weight": 1.0
@@ -32,7 +37,7 @@
     },
     {
       "item": "minecraft:gunpowder",
-      "count": { "type": "constant", "count": 16 },
+      "count": { "type": "constant", "count": 32 },
       "weight": 1.0
     }
   ]

@@ -1,0 +1,20 @@
+{
+  "fluid": "#c:biodiesel",
+  "sound_pitch": 1,
+  "normal": {
+    "speed": 96.0,
+    "strength": 4096.0,
+    "burn_rate": 0.05
+  },
+  "modular": {
+    "speed": 80.0,
+    "strength": 3424.0,
+    "burn_rate": 0.035
+  },
+  "huge": {
+    "speed": 224.0,
+    "strength": 12288.0,
+    "burn_rate": 0.1
+  },
+  "burner_multiplier": 0.5
+}

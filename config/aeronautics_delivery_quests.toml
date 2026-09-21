@@ -42,6 +42,8 @@
 	# Range: 0.0 ~ 5.0
 	rewardReductionScale = 1.0
 	#If true, cargo blocks and subLevels are completely indestructible and immune to player breaks, placement, explosions, and mob griefing. Also bypasses reward scaling penalty.
+	#If false, cargo blocks can be destroyed (reducing the delivery payout proportionally to the missing mass).
+	#In BOTH modes, destroyed cargo blocks never drop their items.
 	enableCargoInvulnerability = true
 	#Minimum distance in blocks between the player and the generated quest starting pickup location.
 	# Default: 300
@@ -53,6 +55,12 @@
 	#  - Fallback: If 'custom_quests.json' is missing, empty, or invalid, both modes auto-fallback to procedural generation drawing from 6+ default schematics and 5+ default balanced template definitions.
 	#Allowed Values: CUSTOM, PROCEDURAL
 	questGenerationMode = "CUSTOM"
+	#Distance in blocks from the pickup location at which the physical cargo is pre-spawned for the approaching pilot.
+	#Keep this comfortably above the server's typical client render distance so players never see the cargo pop in
+	#(e.g. a 10-chunk render distance is 160 blocks; the default 250 stays out of sight).
+	# Default: 250
+	# Range: 32 ~ 1000
+	cargoSpawnDistance = 250
 
 [announcements]
 	#Whether to broadcast to the server when a player accepts a quest.

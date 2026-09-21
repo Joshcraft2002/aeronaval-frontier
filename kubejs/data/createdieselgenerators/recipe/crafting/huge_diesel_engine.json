@@ -1,0 +1,37 @@
+{
+  "type": "create:mechanical_crafting",
+  "accept_mirrored": true,
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "create:brass_sheet"
+    },
+    "S": {
+      "item": "minecraft:flint_and_steel"
+    },
+    "E": {
+      "item": "create:steam_engine"
+    },
+    "F": {
+      "tag": "c:create/flywheels"
+    },
+    "H": {
+      "item": "create_sa:hydraulic_engine"
+    },
+    "A": {
+      "item": "create:andesite_alloy"
+    },
+    "P": {
+      "item": "create:fluid_pipe"
+    }
+  },
+  "pattern": [
+    "BBPAB",
+    "PSHEF",
+    "BBPAB"
+  ],
+  "result": {
+    "count": 1,
+    "id": "createdieselgenerators:huge_diesel_engine"
+  }
+}

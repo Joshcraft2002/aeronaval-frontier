@@ -1,8 +1,8 @@
 {
   "roll": { "type": "constant", "count": 1 },
   "input1": {
-    "filter": "numismatics:cog",
-    "count": { "type": "constant", "count": 2 }
+    "filter": "numismatics:sprocket",
+    "count": { "type": "constant", "count": 6 }
   },
   "output": [
     {

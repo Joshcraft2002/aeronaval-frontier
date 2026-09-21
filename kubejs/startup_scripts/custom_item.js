@@ -21,4 +21,15 @@ StartupEvents.registry('item', event => {
       return itemstack
     })
   })
+
+  event.create('spur_fragment')
+    .texture('aeronavalfrontier:item/spur_fragment')
+    .translationKey('item.aeronavalfrontier.spur_fragment')
+
+  event.create('elytra_fragment')
+    .texture('aeronavalfrontier:item/elytra_fragment')
+    .translationKey('item.aeronavalfrontier.elytra_fragment')
+
+  event.create('incomplete_gyroscope', 'create:sequenced_assembly')
+    .translationKey('item.aeronavalfrontier.incomplete_gyroscope')
 })

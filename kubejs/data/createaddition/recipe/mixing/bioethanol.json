@@ -1,0 +1,25 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "type": "fluid_tag",
+      "fluid_tag": "c:ethanol",
+      "amount": 100
+    },
+    {
+      "item": "create:cinder_flour"
+    },
+    {
+      "item": "createaddition:biomass"
+    },
+    {
+      "item": "createaddition:biomass"
+    }
+  ],
+  "results": [
+    {
+      "amount": 125,
+      "id": "createaddition:bioethanol"
+    }
+  ]
+}

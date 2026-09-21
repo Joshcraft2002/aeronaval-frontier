@@ -33,3 +33,9 @@
 	# If true, AFK players are excluded from the sleep vote.
 	# Non-AFK players can skip the night without waiting for AFK players.
 	bypassEnabled = false
+[stats]
+	# If true, the vanilla "Time Played" statistic (minecraft:play_time)
+	# does not increase while a player is marked AFK.
+	# Time before afk.triggerMinutes elapses still counts.
+	# Scoreboard objectives using this statistic are paused too.
+	pausePlayTimeWhileAfk = false

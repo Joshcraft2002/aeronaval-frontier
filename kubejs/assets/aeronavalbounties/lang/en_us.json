@@ -1,7 +1,8 @@
 {
   "bountiful.decree.arms.name": "Industrial Arms",
+  "bountiful.decree.colony.name": "Colonial Exports",
   "bountiful.decree.cuisine_meals.name": "Cuisine - Meals",
   "bountiful.decree.cuisine_sweets.name": "Cuisine - Sweets & Pastries",
-  "bountiful.decree.colony.name": "Colonial Exports",
-  "bountiful.decree.engineering.name": "Engineering"
+  "bountiful.decree.engineering.name": "Engineering",
+  "bountiful.decree.power.name": "Power & Energy"
 }

@@ -12,6 +12,7 @@ config/*
 !config/aeronautics_delivery_quests.toml
 !config/afkstatus-server.toml
 !config/alexsmobs-common.toml
+!config/analogaudio
 !config/better-advanced-tooltips-client.toml
 !config/bountiful
 config/bountiful/*
@@ -19,6 +20,7 @@ config/bountiful/*
 !config/c2me.toml
 !config/create_aeronautics_throwable_rope_connector-common.toml
 !config/create_connected-common.toml
+!config/createdieselgenerators-server.toml
 !config/create-server.toml
 !config/create-stuff-additions.toml
 !config/dailyshop

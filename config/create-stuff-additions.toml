@@ -1,16 +1,16 @@
 ["Jetpack Height Restriction"]
-	brassJetpackMaxHeight = 24.0
+	brassJetpackMaxHeight = 22.0
 	andesiteJetpackMaxHeight = 16.0
 	copperJetpackMaxHeight = 16.0
-	netheriteJetpackMaxHeight = 24.0
+	netheriteJetpackMaxHeight = 22.0
 	enableAboveCloudEnchant = false
 
 ["Jetpack/Grapplin Speed"]
-	brassJetpackSpeed = 0.02
-	andesiteJetpackSpeed = 0.03
-	copperJetpackSpeed = 0.0125
-	netheriteJetpackSpeed = 0.03
-	grapplinWhiskSpeed = 0.125
+	brassJetpackSpeed = 0.0175
+	andesiteJetpackSpeed = 0.025
+	copperJetpackSpeed = 0.0115
+	netheriteJetpackSpeed = 0.025
+	grapplinWhiskSpeed = 0.115
 
 ["Fuel/Water Capacity"]
 	gadgetCapacity = 1600.0

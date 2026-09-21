@@ -26,8 +26,13 @@
 	# Default: 40.0
 	# Range: 1.0 ~ 1000.0
 	mountedLauncherRange = 40.0
-	#Remove the remote rope connector block placed by the Mounted Rope Launcher when releasing its rope.
-	removePlacedConnectorOnRelease = false
+	#Allow a rising redstone pulse to fire the Mounted Rope Launcher using its last saved aim.
+	mountedRedstoneFire = true
+	#Controls whether the Mounted Rope Launcher can remotely release anchors it placed.
+	#REMOVE: release the rope and remove the placed connector with no refund.
+	#DISABLED: remote release does nothing; players must go recover the connector manually.
+	#Allowed Values: REMOVE, DISABLED
+	mountedAnchorReleaseMode = "REMOVE"
 
 [general]
 	#If true, throwable connector ammo is only consumed after a successful attachment.

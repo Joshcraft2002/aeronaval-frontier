@@ -8,7 +8,7 @@
         "flatBonusTimePerBountyInSecs": 0,
         "shouldHaveTimersAndExpire": true,
         "fillerDifficultyModifierPercent": 0,
-        "allowDecreeMixing": true,
+        "allowDecreeMixing": false,
         "reverseMatchingAlgorithm": false,
         "initialCountPreference": {
             "min": 1,
