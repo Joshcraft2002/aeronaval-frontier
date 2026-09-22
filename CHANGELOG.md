@@ -1,3 +1,9 @@
+# 4.0a
+- Downgraded Interiors (0.6.1 v2 > 0.6.1) due to an issue with chairs on sublevels
+    - also added hotfix datapack for the issues on this version
+- Fixed crafting recipes for Live Speaker Block, Modular Diesel Engine
+- Adjusted Elytra Wing Fragment yield
+
 # 4.0
 Manual Installs need to update Neoforge to 21.1.250 or later
 

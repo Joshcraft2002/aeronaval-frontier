@@ -23,6 +23,24 @@ ServerEvents.tags('item', event => {
   // Track Mount Fix
   event.add('minecraft:mineable/axe', 'tracks:track_mount')
   event.add('minecraft:mineable/pickaxe', 'tracks:track_mount')
+
+  // Create: Interiors temp dye fix
+  event.add('c:white_dyes', 'minecraft:white_dye')
+  event.add('c:orange_dyes', 'minecraft:orange_dye')
+  event.add('c:magenta_dyes', 'minecraft:magenta_dye')
+  event.add('c:light_blue_dyes', 'minecraft:light_blue_dye')
+  event.add('c:yellow_dyes', 'minecraft:yellow_dye')
+  event.add('c:lime_dyes', 'minecraft:lime_dye')
+  event.add('c:pink_dyes', 'minecraft:pink_dye')
+  event.add('c:gray_dyes', 'minecraft:gray_dye')
+  event.add('c:light_gray_dyes', 'minecraft:light_gray_dye')
+  event.add('c:cyan_dyes', 'minecraft:cyan_dye')
+  event.add('c:purple_dyes', 'minecraft:purple_dye')
+  event.add('c:blue_dyes', 'minecraft:blue_dye')
+  event.add('c:brown_dyes', 'minecraft:brown_dye')
+  event.add('c:green_dyes', 'minecraft:green_dye')
+  event.add('c:red_dyes', 'minecraft:red_dye')
+  event.add('c:black_dyes', 'minecraft:black_dye')
 })
 
 ServerEvents.tags('block', event => {

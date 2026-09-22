@@ -2,26 +2,43 @@ ServerEvents.recipes(event => {
 	event.shapeless( Item.of('numismatics:spur'), [ '8x kubejs:spur_fragment' ])
 	event.shapeless( Item.of('kubejs:spur_fragment', 8), [ 'numismatics:spur' ])
 
-	event.shapeless( Item.of('kubejs:elytra_fragment', 8), [ 'minecraft:elytra' ])
+	event.shapeless( Item.of('kubejs:elytra_fragment', 3), [ 'minecraft:elytra' ])
 	event.recipes.create.crushing(
 		[
-			'8x kubejs:elytra_fragment', 
-			CreateItem.of('8x kubejs:elytra_fragment', 0.3)
+			'3x kubejs:elytra_fragment', 
+			CreateItem.of('3x kubejs:elytra_fragment', 0.3)
 		], 
 		'minecraft:elytra')
 
 	event.remove([ { output: 'analogaudio:speaker' } ])
 	event.shaped(
-		Item.of('minecraft:stone', 3), // arg 1: output
+		'analogaudio:speaker',
 		[
 			' W ',
-			'WSW', // arg 2: the shape (array of strings)
+			'WSW',
 			'WNW'
 		],
 		{
 			W: '#minecraft:wool',
 			S: 'supplementaries:speaker_block',
 			N: 'minecraft:note_block'
+		}
+	)
+
+	event.remove([ { output: 'createdieselgenerators:large_diesel_engine' } ])
+	event.shaped(
+		'createdieselgenerators:large_diesel_engine',
+		[
+			' AR',
+			'SES',
+			' IR'
+		],
+		{
+			E: 'createdieselgenerators:diesel_engine',
+			R: 'simulatedcoasters:rivet',
+			I: 'createdeco:industrial_iron_ingot',
+			A: 'create:andesite_alloy',
+			S: 'create:brass_sheet'
 		}
 	)
 

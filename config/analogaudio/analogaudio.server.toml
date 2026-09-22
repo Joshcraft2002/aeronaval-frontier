@@ -3,7 +3,7 @@
 # ============================================================
 
 # List of website domains allowed for cassette writing. (e.g., youtube.com)
-whitelistedUrls = ["youtube.com", "youtu.be", "soundcloud.com", "bandcamp.com"]
+whitelistedUrls = []
 
 # If enabled, the URL whitelist will be treated instead as a blacklist.
 whitelistAsBlacklist = false

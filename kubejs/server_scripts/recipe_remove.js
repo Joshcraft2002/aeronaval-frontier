@@ -35,7 +35,6 @@ ServerEvents.recipes(event => {
 	event.remove([
 		{ output: 'spartan_weaponry_unofficial:copper_bolt' },
 		{ output: 'aeronautics_utility_objects:damping_stress_bearing' },
-		{ output: 'createdieselgenerators:biodiesel' },
-		{ output: 'createdieselgenerators:large_diesel_engine' },
+		{ output: 'createdieselgenerators:biodiesel' }
 	])
 })
