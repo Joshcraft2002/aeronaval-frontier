@@ -12,7 +12,6 @@ config/*
 !config/aeronautics_delivery_quests.toml
 !config/afkstatus-server.toml
 !config/alexsmobs-common.toml
-!config/analogaudio
 !config/better-advanced-tooltips-client.toml
 !config/bountiful
 config/bountiful/*

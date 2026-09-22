@@ -11,12 +11,6 @@ ServerEvents.recipes(event => {
 		Ingredient.of('#c:drinks/milk')
 	)
 
-	event.replaceInput(
-		{ output: 'analogaudio:radio' },
-		'minecraft:note_block',
-		Ingredient.of('minecraft:jukebox')
-	)
-
 	// Bounty Board allow any wood type
 	event.replaceInput(
 		{ output: 'bountiful:bountyboard' },

@@ -10,21 +10,6 @@ ServerEvents.recipes(event => {
 		], 
 		'minecraft:elytra')
 
-	event.remove([ { output: 'analogaudio:speaker' } ])
-	event.shaped(
-		'analogaudio:speaker',
-		[
-			' W ',
-			'WSW',
-			'WNW'
-		],
-		{
-			W: '#minecraft:wool',
-			S: 'supplementaries:speaker_block',
-			N: 'minecraft:note_block'
-		}
-	)
-
 	event.remove([ { output: 'createdieselgenerators:large_diesel_engine' } ])
 	event.shaped(
 		'createdieselgenerators:large_diesel_engine',
@@ -41,9 +26,6 @@ ServerEvents.recipes(event => {
 			S: 'create:brass_sheet'
 		}
 	)
-
-	event.remove([ { output: 'analogaudio:cassette_tape' } ])
-	event.shapeless( Item.of('analogaudio:cassette_tape'), [ '#c:music_discs', 'minecraft:echo_shard' ])
 
 	// Gyroscope
 	event.remove([ { output: 'aeroworks:gyroscope' } ])

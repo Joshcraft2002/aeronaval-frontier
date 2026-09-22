@@ -3,6 +3,7 @@
     - also added hotfix datapack for the issues on this version
 - Fixed crafting recipes for Live Speaker Block, Modular Diesel Engine
 - Adjusted Elytra Wing Fragment yield
+- Removed Analog Audio (server-related issues)
 
 # 4.0
 Manual Installs need to update Neoforge to 21.1.250 or later
@@ -27,6 +28,7 @@ This is "Phase 1" of a big update, Phase 2 will arrive as 4.1
 - Analog Audio
 - Azimuth API
 - Better Advanced Tooltips
+- Configured
 - Coordboard
 - Create Aeronautics: Transmission & Linkage
 - Create: Aeroworks
