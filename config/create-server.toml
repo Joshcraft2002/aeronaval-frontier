@@ -601,4 +601,4 @@
 		#The acceleration of powered Trains.
 		# Default: 3.0
 		# Range: 0.0 ~ 3.4028234663852886E38
-		poweredTrainAcceleration = 5.0
+		poweredTrainAcceleration = 4.0

@@ -9,9 +9,9 @@ loadingStages = 3
 loadingStageDuration = 0.5
 
 # Damage multiplier for pvp
-pvpDamageMultiplier = 1.5
+pvpDamageMultiplier = 1.0
 # Damage multiplier for monsters
-mobDamageMultiplier = 0.8
+mobDamageMultiplier = 0.5
 
 # Probability of Pillager having a pistol
 pistolPillagerChance = 1.0
@@ -29,7 +29,7 @@ musketBulletSpeed = 180.0
 # Damage at point-blank range
 musketDamage = 16.0
 # Headshot damage multiplier
-headshotDamageMultiplier = 1.5
+headshotDamageMultiplier = 1.3
 # Durability (applied on restart)
 musketDurability = 250
 
