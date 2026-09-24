@@ -51,6 +51,14 @@ ServerEvents.recipes(event => {
     .transitionalItem(gyroscope_transitional) // Set the transitional item
     .loops(2) // Set the number of loops
 
+  	// Croptopia Bottles
+	event.remove([
+		{ output: 'croptopia:water_bottle' },
+		{ output: 'croptopia:milk_bottle' }
+	])
+	event.shapeless( Item.of('croptopia:water_bottle', 16), [ 'minecraft:water_bucket' ] )
+	event.shapeless( Item.of('croptopia:milk_bottle', 16), [ 'minecraft:milk_bucket' ] )
+
   	// Flour & Dough
 	event.replaceInput(
 		{ input: 'croptopia:flour' },

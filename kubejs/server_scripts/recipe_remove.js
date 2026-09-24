@@ -1,10 +1,4 @@
 ServerEvents.recipes(event => {
-  	// Croptopia Bottles
-	event.remove([
-		{ output: 'croptopia:water_bottle' },
-		{ output: 'croptopia:milk_bottle' }
-	])
-
 	// Create Deco
 	event.remove([
 		{ output: 'createdeco:gold_coin' },
