@@ -27,6 +27,9 @@ ServerEvents.recipes(event => {
 		}
 	)
 
+	// Re-adding recipe as feature flag doesn't work
+	
+
 	// Gyroscope
 	event.remove([ { output: 'aeroworks:gyroscope' } ])
 	const gyroscope_transitional = 'kubejs:incomplete_gyroscope' // Making a constant to store the transitional item makes the code more readable

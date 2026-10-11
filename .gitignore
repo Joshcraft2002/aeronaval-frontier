@@ -13,6 +13,7 @@ config/*
 !config/afkstatus-server.toml
 !config/alexsmobs-common.toml
 !config/better-advanced-tooltips-client.toml
+!config/bits_n_bobs-common.toml
 !config/bountiful
 config/bountiful/*
 !config/bountiful/bountiful.json
