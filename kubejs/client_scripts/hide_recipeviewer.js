@@ -93,6 +93,11 @@ RecipeViewerEvents.removeEntries('item', event => {
     event.remove('spartan_weaponry_unofficial:tipped_diamond_bolt')
     event.remove('spartan_weaponry_unofficial:tipped_netherite_bolt')
 
+    // Asphalt
+    event.remove('createdieselgenerators:asphalt_block')
+    event.remove('createdieselgenerators:asphalt_stairs')
+    event.remove('createdieselgenerators:asphalt_slab')
+
     // "Fuels"
     event.remove('createdieselgenerators:plant_oil_bucket')
     event.remove('createaddition:seed_oil_bucket')
@@ -111,4 +116,5 @@ RecipeViewerEvents.removeEntries('fluid', event => {
     event.remove('createdieselgenerators:plant_oil')
     event.remove('createaddition:seed_oil')
     event.remove('createdieselgenerators:biodiesel')
+    event.remove('croptopia:transcendental_breakfast')
 })

@@ -25,10 +25,18 @@ ServerEvents.recipes(event => {
 		{ output: 'electroenergetics:iron_wire' }
 	])
 
+	// Asphalt, until speed becomes configurable
+	event.remove([
+		{ output: 'createdieselgenerators:asphalt_block' },
+		{ output: 'createdieselgenerators:asphalt_stairs' },
+		{ output: 'createdieselgenerators:asphalt_slab' }
+	])
+
 	// Misc
 	event.remove([
 		{ output: 'spartan_weaponry_unofficial:copper_bolt' },
 		{ output: 'aeronautics_utility_objects:damping_stress_bearing' },
-		{ output: 'createdieselgenerators:biodiesel' }
+		{ output: 'createdieselgenerators:biodiesel' },
+		{ output: 'croptopia:transcendental_breakfast' }
 	])
 })

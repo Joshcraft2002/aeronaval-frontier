@@ -27,8 +27,55 @@ ServerEvents.recipes(event => {
 		}
 	)
 
-	// Re-adding recipe as feature flag doesn't work
-	
+	event.recipes.create.mixing( '2x minecraft:ink_sac', [
+		Fluid.of('electroenergetics:plant_oil', 100), 
+		'minecraft:slime_ball',
+		Ingredient.of('#minecraft:coals'),
+		Ingredient.of('#minecraft:coals')
+	])
+
+	event.recipes.create.compacting('3x create:blaze_cake_base', [
+		'2x supplementaries:flax_seeds',
+		'croptopia:butter',
+		'minecraft:nether_wart',
+		'2x minecraft:sugar',
+		'2x create:cinder_flour',
+	])
+
+	// Scoria Crushing
+	event.recipes.create.crushing(
+	[
+		CreateItem.of('minecraft:quartz', 0.05), 
+		CreateItem.of('minecraft:iron_nugget', 0.05), 
+		CreateItem.of('minecraft:gold_nugget', 0.02)
+	], 
+	Ingredient.of('#create:stone_types/scoria'))
+
+	event.recipes.create.crushing(
+	[
+		CreateItem.of('minecraft:quartz', 0.05), 
+		CreateItem.of('minecraft:iron_nugget', 0.05), 
+		CreateItem.of('minecraft:gold_nugget', 0.02)
+	], 
+	Ingredient.of('#create:stone_types/scorchia'))
+
+	// Scorchia Crushing
+	event.recipes.create.crushing(
+	[
+		CreateItem.of('minecraft:iron_nugget', 0.025), 
+		CreateItem.of('minecraft:gold_nugget', 0.01),
+		CreateItem.of('minecraft:coal', 0.1),
+		CreateItem.of('createbigcannons:gunpowder_pinch', 0.05)
+	], 
+	'create:scorchia')
+
+	event.recipes.create.crushing(
+	[
+		CreateItem.of('minecraft:iron_nugget', 0.025), 
+		CreateItem.of('minecraft:gold_nugget', 0.01),
+		CreateItem.of('minecraft:coal', 0.1),
+	], 
+	'create:scorchia')
 
 	// Gyroscope
 	event.remove([ { output: 'aeroworks:gyroscope' } ])

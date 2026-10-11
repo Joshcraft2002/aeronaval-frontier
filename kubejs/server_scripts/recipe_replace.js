@@ -11,6 +11,12 @@ ServerEvents.recipes(event => {
 		Ingredient.of('#c:drinks/milk')
 	)
 
+	event.replaceInput(
+		{ output: 'create:scorchia' },
+		'minecraft:black_dye',
+		'minecraft:coal'
+	)
+
 	// Bounty Board allow any wood type
 	event.replaceInput(
 		{ output: 'bountiful:bountyboard' },

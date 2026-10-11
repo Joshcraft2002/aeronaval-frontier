@@ -1,3 +1,11 @@
+# ...
+- Scoria & Scorchia can now be crushed for a small amount of minerals
+- Added alternative recipes for ink sacs & blaze cake base
+- Re-enabled Bits 'n' Bobs Brass Lamp
+- Made Asphalt unobtainable
+> waiting for when speed effect is configurable
+- Fixed crafting recipe for water & milk portions
+
 # 4.0a
 - Downgraded Interiors (0.6.1 v2 > 0.6.1) due to an issue with chairs on sublevels
     - also added hotfix datapack for the issues on this version
